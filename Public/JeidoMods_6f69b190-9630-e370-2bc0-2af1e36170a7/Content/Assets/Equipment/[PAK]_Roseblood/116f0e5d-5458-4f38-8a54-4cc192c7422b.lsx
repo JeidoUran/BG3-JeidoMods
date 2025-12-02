@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
 	<region id="VisualBank">
@@ -32,321 +32,105 @@
 							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
 							<attribute id="LOD" type="uint8" value="0" />
 						</node>
-						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh.1" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="LOD" type="uint8" value="0" />
-						</node>
-						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD1.2" />
-							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
-							<attribute id="LOD" type="uint8" value="1" />
-						</node>
-						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD2.3" />
-							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
-							<attribute id="LOD" type="uint8" value="2" />
-						</node>
-						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD3.4" />
-							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
-							<attribute id="LOD" type="uint8" value="3" />
-						</node>
-						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD4.5" />
-							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
-							<attribute id="LOD" type="uint8" value="4" />
-						</node>
-						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD1.6" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="LOD" type="uint8" value="1" />
-						</node>
-						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD2.7" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="LOD" type="uint8" value="2" />
-						</node>
-						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD3.8" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="LOD" type="uint8" value="3" />
-						</node>
-						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD4.9" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
-							<attribute id="LOD" type="uint8" value="4" />
-						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
 						</node>
+						<node id="Base" />
+            <node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimDriveSpringForce" type="float" value="25" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.02 0.02 0.02" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="100" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh.1" /> Put the name of your Cloth_Mesh here
+						</node>
+
 						<node id="ClothProxyMapping">
 							<children>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh.1" />
-									<children>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="1152" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD3.4" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNqtlfl7TkcYhh/SWILY2lraikSoihQVqpvWFktSLSGqpZRQe61pq5YutFo7kYgilhRV1T9x+pz3Dte48qvrXOed882835yZd577OdJGrVAfrVJKffWRY4la9KFe0HwtV6ma9JX6aaH7+2u91mqeBvh5uwY6lmmHhmmQvtZODfbvlIZos9ty7dYkDY2eYc5ZquHOWKYRGqVXNVK7/PSixqhNL6lSr+tlHXXuKPemNNr9KY3RaGeMVYXG6RW3Vf5fMdtrEcep3W2F+1MaHz2VEasiTtBVt9WaqAm+qx0nqVyNfk+N3zZZU/WGryJzSsQaj1Sq0/3TVasZetNXrUemxWine6e6t1ZT9Ja61K2Z0V8XcZZmq873LMe33c7UHOdN1Dua5lne9Xsm6z2PPNb7kf9BxLkRS1zlFlHzvKpUfoG2+nmha5/Sosivd42PaLH2OGuJDugb17Wo/zJXN6WGyGnUce/2Y89c4jnm+xQ/UTEHb/nUp9zHp/25VmulvvBTk094Xc/pr3Z/s0ea3a7xaLM+81hKa1WcfDG6wr1r/M91Hil1X3996Wu9c5hhQ8y0UdIGq6bUb98U2tmsIU/V1aJi31tCX1u9yzKrZ5AWaZt3V5+pa7H3Vubd7fTu9loxI9VgVZV7d3s8NtC7L3S1N3S1T/vV6nufFXTAtUnpYFTjUMRWfatDvlv1na9Cd9+H7g7H6A+h2CNeYX2oMKVjHhnqOjY6/ujYoJ+8vnr9HDr9RR3WywlrqUMndVoX9KvO6KJ+01mv5FSM/27NdOoPnddlZ5z0rGecldJZZx3UuRg5H++6EPFixEsRL0dsi3glYrsZSKnDM9eEsp9o8lqoUsEvteUU4Le3oqAVHnOu4RdCYRyW4RRmYRMGx/ciHZZhFn7hFAeAcSiGaMiFYtiHFKiBIMiF4rkZO3AEUxAHfZAI+1WZJ8B+XcY77OMDeAIOANdQjwPgBjhDbx+AX+pM/ak2hMJgzh2nk9MNv7AMpzCbUw/dKAeN4QMNmXJQFzrEAdoydaFAtIqe0RK6Qm+oEcWy06uZAlEmukXbaA8K0DxcQA2kwFHOFxxBGfThDHgIPoMjQSi84ww4CZ6DL8EyzoCH4Cc4Dx4F9TgDToKr4DC4EP6Ah+AneAvugZPgKjgPJ46P4XW4Ip7JieOEeCaOit/mTosP/6nr7rnu9pZu6KZu+77hiMa63N595qt0K/KLrDu+buuex7vc020euoR6UfJfnjGle865o/vOe+Drvv729UBPvl8P/Sulf/RQj3oIeqTiF0z9G7+g7LFXc7fnW/ZfRiLrZ+XsgvXn62QlrJb15LvL15+vs/e3mH093/X/D3bo0s8=" />
-												</node>
-											</children>
-										</node>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="1152" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD2.3" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNqtlfl7TkcYhh/SWILY2lraikSoihQVqpvWFktSLSGqpZRQe61pq5YutFo7kYgilhRV1T9x+pz3Dte48qvrXOed882835yZd577OdJGrVAfrVJKffWRY4la9KFe0HwtV6ma9JX6aaH7+2u91mqeBvh5uwY6lmmHhmmQvtZODfbvlIZos9ty7dYkDY2eYc5ZquHOWKYRGqVXNVK7/PSixqhNL6lSr+tlHXXuKPemNNr9KY3RaGeMVYXG6RW3Vf5fMdtrEcep3W2F+1MaHz2VEasiTtBVt9WaqAm+qx0nqVyNfk+N3zZZU/WGryJzSsQaj1Sq0/3TVasZetNXrUemxWine6e6t1ZT9Ja61K2Z0V8XcZZmq873LMe33c7UHOdN1Dua5lne9Xsm6z2PPNb7kf9BxLkRS1zlFlHzvKpUfoG2+nmha5/Sosivd42PaLH2OGuJDugb17Wo/zJXN6WGyGnUce/2Y89c4jnm+xQ/UTEHb/nUp9zHp/25VmulvvBTk094Xc/pr3Z/s0ea3a7xaLM+81hKa1WcfDG6wr1r/M91Hil1X3996Wu9c5hhQ8y0UdIGq6bUb98U2tmsIU/V1aJi31tCX1u9yzKrZ5AWaZt3V5+pa7H3Vubd7fTu9loxI9VgVZV7d3s8NtC7L3S1N3S1T/vV6nufFXTAtUnpYFTjUMRWfatDvlv1na9Cd9+H7g7H6A+h2CNeYX2oMKVjHhnqOjY6/ujYoJ+8vnr9HDr9RR3WywlrqUMndVoX9KvO6KJ+01mv5FSM/27NdOoPnddlZ5z0rGecldJZZx3UuRg5H++6EPFixEsRL0dsi3glYrsZSKnDM9eEsp9o8lqoUsEvteUU4Le3oqAVHnOu4RdCYRyW4RRmYRMGx/ciHZZhFn7hFAeAcSiGaMiFYtiHFKiBIMiF4rkZO3AEUxAHfZAI+1WZJ8B+XcY77OMDeAIOANdQjwPgBjhDbx+AX+pM/ak2hMJgzh2nk9MNv7AMpzCbUw/dKAeN4QMNmXJQFzrEAdoydaFAtIqe0RK6Qm+oEcWy06uZAlEmukXbaA8K0DxcQA2kwFHOFxxBGfThDHgIPoMjQSi84ww4CZ6DL8EyzoCH4Cc4Dx4F9TgDToKr4DC4EP6Ah+AneAvugZPgKjgPJ46P4XW4Ip7JieOEeCaOit/mTosP/6nr7rnu9pZu6KZu+77hiMa63N595qt0K/KLrDu+buuex7vc020euoR6UfJfnjGle865o/vOe+Drvv729UBPvl8P/Sulf/RQj3oIeqTiF0z9G7+g7LFXc7fnW/ZfRiLrZ+XsgvXn62QlrJb15LvL15+vs/e3mH093/X/D3bo0s8=" />
-												</node>
-											</children>
-										</node>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="1152" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD1.2" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNqtlfl7TkcYhh/SWILY2lraikSoihQVqpvWFktSLSGqpZRQe61pq5YutFo7kYgilhRV1T9x+pz3Dte48qvrXOed882835yZd577OdJGrVAfrVJKffWRY4la9KFe0HwtV6ma9JX6aaH7+2u91mqeBvh5uwY6lmmHhmmQvtZODfbvlIZos9ty7dYkDY2eYc5ZquHOWKYRGqVXNVK7/PSixqhNL6lSr+tlHXXuKPemNNr9KY3RaGeMVYXG6RW3Vf5fMdtrEcep3W2F+1MaHz2VEasiTtBVt9WaqAm+qx0nqVyNfk+N3zZZU/WGryJzSsQaj1Sq0/3TVasZetNXrUemxWine6e6t1ZT9Ja61K2Z0V8XcZZmq873LMe33c7UHOdN1Dua5lne9Xsm6z2PPNb7kf9BxLkRS1zlFlHzvKpUfoG2+nmha5/Sosivd42PaLH2OGuJDugb17Wo/zJXN6WGyGnUce/2Y89c4jnm+xQ/UTEHb/nUp9zHp/25VmulvvBTk094Xc/pr3Z/s0ea3a7xaLM+81hKa1WcfDG6wr1r/M91Hil1X3996Wu9c5hhQ8y0UdIGq6bUb98U2tmsIU/V1aJi31tCX1u9yzKrZ5AWaZt3V5+pa7H3Vubd7fTu9loxI9VgVZV7d3s8NtC7L3S1N3S1T/vV6nufFXTAtUnpYFTjUMRWfatDvlv1na9Cd9+H7g7H6A+h2CNeYX2oMKVjHhnqOjY6/ujYoJ+8vnr9HDr9RR3WywlrqUMndVoX9KvO6KJ+01mv5FSM/27NdOoPnddlZ5z0rGecldJZZx3UuRg5H++6EPFixEsRL0dsi3glYrsZSKnDM9eEsp9o8lqoUsEvteUU4Le3oqAVHnOu4RdCYRyW4RRmYRMGx/ciHZZhFn7hFAeAcSiGaMiFYtiHFKiBIMiF4rkZO3AEUxAHfZAI+1WZJ8B+XcY77OMDeAIOANdQjwPgBjhDbx+AX+pM/ak2hMJgzh2nk9MNv7AMpzCbUw/dKAeN4QMNmXJQFzrEAdoydaFAtIqe0RK6Qm+oEcWy06uZAlEmukXbaA8K0DxcQA2kwFHOFxxBGfThDHgIPoMjQSi84ww4CZ6DL8EyzoCH4Cc4Dx4F9TgDToKr4DC4EP6Ah+AneAvugZPgKjgPJ46P4XW4Ip7JieOEeCaOit/mTosP/6nr7rnu9pZu6KZu+77hiMa63N595qt0K/KLrDu+buuex7vc020euoR6UfJfnjGle865o/vOe+Drvv729UBPvl8P/Sulf/RQj3oIeqTiF0z9G7+g7LFXc7fnW/ZfRiLrZ+XsgvXn62QlrJb15LvL15+vs/e3mH093/X/D3bo0s8=" />
-												</node>
-											</children>
-										</node>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="1152" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape.0" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNqtlfl7TkcYhh/SWILY2lraikSoihQVqpvWFktSLSGqpZRQe61pq5YutFo7kYgilhRV1T9x+pz3Dte48qvrXOed882835yZd577OdJGrVAfrVJKffWRY4la9KFe0HwtV6ma9JX6aaH7+2u91mqeBvh5uwY6lmmHhmmQvtZODfbvlIZos9ty7dYkDY2eYc5ZquHOWKYRGqVXNVK7/PSixqhNL6lSr+tlHXXuKPemNNr9KY3RaGeMVYXG6RW3Vf5fMdtrEcep3W2F+1MaHz2VEasiTtBVt9WaqAm+qx0nqVyNfk+N3zZZU/WGryJzSsQaj1Sq0/3TVasZetNXrUemxWine6e6t1ZT9Ja61K2Z0V8XcZZmq873LMe33c7UHOdN1Dua5lne9Xsm6z2PPNb7kf9BxLkRS1zlFlHzvKpUfoG2+nmha5/Sosivd42PaLH2OGuJDugb17Wo/zJXN6WGyGnUce/2Y89c4jnm+xQ/UTEHb/nUp9zHp/25VmulvvBTk094Xc/pr3Z/s0ea3a7xaLM+81hKa1WcfDG6wr1r/M91Hil1X3996Wu9c5hhQ8y0UdIGq6bUb98U2tmsIU/V1aJi31tCX1u9yzKrZ5AWaZt3V5+pa7H3Vubd7fTu9loxI9VgVZV7d3s8NtC7L3S1N3S1T/vV6nufFXTAtUnpYFTjUMRWfatDvlv1na9Cd9+H7g7H6A+h2CNeYX2oMKVjHhnqOjY6/ujYoJ+8vnr9HDr9RR3WywlrqUMndVoX9KvO6KJ+01mv5FSM/27NdOoPnddlZ5z0rGecldJZZx3UuRg5H++6EPFixEsRL0dsi3glYrsZSKnDM9eEsp9o8lqoUsEvteUU4Le3oqAVHnOu4RdCYRyW4RRmYRMGx/ciHZZhFn7hFAeAcSiGaMiFYtiHFKiBIMiF4rkZO3AEUxAHfZAI+1WZJ8B+XcY77OMDeAIOANdQjwPgBjhDbx+AX+pM/ak2hMJgzh2nk9MNv7AMpzCbUw/dKAeN4QMNmXJQFzrEAdoydaFAtIqe0RK6Qm+oEcWy06uZAlEmukXbaA8K0DxcQA2kwFHOFxxBGfThDHgIPoMjQSi84ww4CZ6DL8EyzoCH4Cc4Dx4F9TgDToKr4DC4EP6Ah+AneAvugZPgKjgPJ46P4XW4Ip7JieOEeCaOit/mTosP/6nr7rnu9pZu6KZu+77hiMa63N595qt0K/KLrDu+buuex7vc020euoR6UfJfnjGle865o/vOe+Drvv729UBPvl8P/Sulf/RQj3oIeqTiF0z9G7+g7LFXc7fnW/ZfRiLrZ+XsgvXn62QlrJb15LvL15+vs/e3mH093/X/D3bo0s8=" />
-												</node>
-											</children>
-										</node>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="1152" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD4.5" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNqtlfl7TkcYhh/SWILY2lraikSoihQVqpvWFktSLSGqpZRQe61pq5YutFo7kYgilhRV1T9x+pz3Dte48qvrXOed882835yZd577OdJGrVAfrVJKffWRY4la9KFe0HwtV6ma9JX6aaH7+2u91mqeBvh5uwY6lmmHhmmQvtZODfbvlIZos9ty7dYkDY2eYc5ZquHOWKYRGqVXNVK7/PSixqhNL6lSr+tlHXXuKPemNNr9KY3RaGeMVYXG6RW3Vf5fMdtrEcep3W2F+1MaHz2VEasiTtBVt9WaqAm+qx0nqVyNfk+N3zZZU/WGryJzSsQaj1Sq0/3TVasZetNXrUemxWine6e6t1ZT9Ja61K2Z0V8XcZZmq873LMe33c7UHOdN1Dua5lne9Xsm6z2PPNb7kf9BxLkRS1zlFlHzvKpUfoG2+nmha5/Sosivd42PaLH2OGuJDugb17Wo/zJXN6WGyGnUce/2Y89c4jnm+xQ/UTEHb/nUp9zHp/25VmulvvBTk094Xc/pr3Z/s0ea3a7xaLM+81hKa1WcfDG6wr1r/M91Hil1X3996Wu9c5hhQ8y0UdIGq6bUb98U2tmsIU/V1aJi31tCX1u9yzKrZ5AWaZt3V5+pa7H3Vubd7fTu9loxI9VgVZV7d3s8NtC7L3S1N3S1T/vV6nufFXTAtUnpYFTjUMRWfatDvlv1na9Cd9+H7g7H6A+h2CNeYX2oMKVjHhnqOjY6/ujYoJ+8vnr9HDr9RR3WywlrqUMndVoX9KvO6KJ+01mv5FSM/27NdOoPnddlZ5z0rGecldJZZx3UuRg5H++6EPFixEsRL0dsi3glYrsZSKnDM9eEsp9o8lqoUsEvteUU4Le3oqAVHnOu4RdCYRyW4RRmYRMGx/ciHZZhFn7hFAeAcSiGaMiFYtiHFKiBIMiF4rkZO3AEUxAHfZAI+1WZJ8B+XcY77OMDeAIOANdQjwPgBjhDbx+AX+pM/ak2hMJgzh2nk9MNv7AMpzCbUw/dKAeN4QMNmXJQFzrEAdoydaFAtIqe0RK6Qm+oEcWy06uZAlEmukXbaA8K0DxcQA2kwFHOFxxBGfThDHgIPoMjQSi84ww4CZ6DL8EyzoCH4Cc4Dx4F9TgDToKr4DC4EP6Ah+AneAvugZPgKjgPJ46P4XW4Ip7JieOEeCaOit/mTosP/6nr7rnu9pZu6KZu+77hiMa63N595qt0K/KLrDu+buuex7vc020euoR6UfJfnjGle865o/vOe+Drvv729UBPvl8P/Sulf/RQj3oIeqTiF0z9G7+g7LFXc7fnW/ZfRiLrZ+XsgvXn62QlrJb15LvL15+vs/e3mH093/X/D3bo0s8=" />
-												</node>
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD1.6" />
-								</node>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD2.7" />
-								</node>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD3.8" />
-								</node>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD4.9" />
-								</node>
+								<node id="Object">
+  <attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh.1" />
+  <children>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="eNqtlWd3VkUUhTfGiAQJICggUhI6IdKColKkBSVRqaFIJxRFEQRioaqgKF0iITRD6NL5g8O+5wmuYeWr66575r5zzjt3yn72ldZrkbpoqVJ6SR85lqhRM/WyZuszlWqJNugVzdVGddUardQsveqaL9XNsUxfqZe6a6u26zX/TqmHNrkt1zcaqZ7R08s1n6i3KxbodfXT2+qjr/3UVwPUrDdUoVF6Uwdc28+9KfV3f0oD1N8Vb2mIBmug20r/rxhtUMTBOu92iPtTGho9FRErIw7TBbfDNULDfA93HKly1fs9VX7baI3TGF9F5diIVc5UqNX9E1StiXrHV7Uz4yPb6t5x7q3WWE1Sm25qcvTXRJyid1Xje4rje24na6rrRuiS3td4feD3jNaHzjzStKifHnFGxBLvcqPY83xX2fk52uLnud77lOZFfa33eL/ma4erPtZufet9LfZ/gXc3pbqoqdchr/ZTj1ziMWb7FD9XMQZvWehT7uLTXqVlWqwv/LTEJ7y64/SXub/BmQa3y51t0ArnUloZJ19kF7l3uf+52plS93XVWl9rXMMI62Kk9ZLWWTWlfvvG0M4m9fhPXY0q1r059LXFqyyzerprnrZ5dbWZuuZ7bWVe3XavbqcV00d1VlW5V7fDuW5efaGrnaGrXfpOTb53WUG7vTcp7Ynd2BuxSd9rr+8m/eCr0N2PobufIrsvFLvfM6wNFaZ00Jme3sd6x8OOdfrZ86vVL6HTX9VivRyxllp0VMd1Rr/phM7qd530TI5F/g9rplV/6rTOueKoRz3hqpROumqPTkXmdLzrTMSzEf+KeC5ic8S/I543Aym1eOSqUPZzTV4MVSr4ZW85BfjtrChohceca/iFUBiHZTiFWdiEwaGdSIdlmIVfOMUBYByKIRpyoRj2IQVqIAhyoXhGxg4cwRTEQR8kwn5l5gmwX5PxDvv4AJ6AA8A11OMAuAHO0NkH4Jd9Zv/ZbQiFwZw7TienG35hGU5hNqceulEOGsMH6jLloC50iAM0Z+pCgWgVPaMldIXeUCOKZaUXMgWiTHSLttEeFKB5uIAaSIGjnC84gjLowxnwEHwGR4JQeMcZcBI8B1+CZZwBD8FPcB48CupxBpwEV8FhcCH8AQ/BT/AW3AMnwVVwHk4cH8PrcEU8kxPHCfFMHBW/zZ0WH76sK3ri64qfruoftfu+6ojG2tzeeOGrdE1PHYuq677addv5NvfcNA9tQr0o+ZYrrznf7ro7bu/6uqN/fd3V8+/XPf9K6b7u6UEHQQ9U/IKph/ELyh55Njc6vmWPMxKZPzNnFcw/nyczYbbMJ19dPv98np2/xazr/53/MwgjzAE=" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape.0" />
+          <attribute id="NbClosestVertices" type="int32" value="1152" />
+        </node>
+      </children>
+    </node>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="eNqtlWd3VkUUhTfGiAQJICggUhI6IdKColKkBSVRqaFIJxRFEQRioaqgKF0iITRD6NL5g8O+5wmuYeWr66575r5zzjt3yn72ldZrkbpoqVJ6SR85lqhRM/WyZuszlWqJNugVzdVGddUardQsveqaL9XNsUxfqZe6a6u26zX/TqmHNrkt1zcaqZ7R08s1n6i3KxbodfXT2+qjr/3UVwPUrDdUoVF6Uwdc28+9KfV3f0oD1N8Vb2mIBmug20r/rxhtUMTBOu92iPtTGho9FRErIw7TBbfDNULDfA93HKly1fs9VX7baI3TGF9F5diIVc5UqNX9E1StiXrHV7Uz4yPb6t5x7q3WWE1Sm25qcvTXRJyid1Xje4rje24na6rrRuiS3td4feD3jNaHzjzStKifHnFGxBLvcqPY83xX2fk52uLnud77lOZFfa33eL/ma4erPtZufet9LfZ/gXc3pbqoqdchr/ZTj1ziMWb7FD9XMQZvWehT7uLTXqVlWqwv/LTEJ7y64/SXub/BmQa3y51t0ArnUloZJ19kF7l3uf+52plS93XVWl9rXMMI62Kk9ZLWWTWlfvvG0M4m9fhPXY0q1r059LXFqyyzerprnrZ5dbWZuuZ7bWVe3XavbqcV00d1VlW5V7fDuW5efaGrnaGrXfpOTb53WUG7vTcp7Ynd2BuxSd9rr+8m/eCr0N2PobufIrsvFLvfM6wNFaZ00Jme3sd6x8OOdfrZ86vVL6HTX9VivRyxllp0VMd1Rr/phM7qd530TI5F/g9rplV/6rTOueKoRz3hqpROumqPTkXmdLzrTMSzEf+KeC5ic8S/I543Aym1eOSqUPZzTV4MVSr4ZW85BfjtrChohceca/iFUBiHZTiFWdiEwaGdSIdlmIVfOMUBYByKIRpyoRj2IQVqIAhyoXhGxg4cwRTEQR8kwn5l5gmwX5PxDvv4AJ6AA8A11OMAuAHO0NkH4Jd9Zv/ZbQiFwZw7TienG35hGU5hNqceulEOGsMH6jLloC50iAM0Z+pCgWgVPaMldIXeUCOKZaUXMgWiTHSLttEeFKB5uIAaSIGjnC84gjLowxnwEHwGR4JQeMcZcBI8B1+CZZwBD8FPcB48CupxBpwEV8FhcCH8AQ/BT/AW3AMnwVVwHk4cH8PrcEU8kxPHCfFMHBW/zZ0WH76sK3ri64qfruoftfu+6ojG2tzeeOGrdE1PHYuq677addv5NvfcNA9tQr0o+ZYrrznf7ro7bu/6uqN/fd3V8+/XPf9K6b7u6UEHQQ9U/IKph/ELyh55Njc6vmWPMxKZPzNnFcw/nyczYbbMJ19dPv98np2/xazr/53/MwgjzAE=" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD1.2" />
+          <attribute id="NbClosestVertices" type="int32" value="1152" />
+        </node>
+      </children>
+    </node>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="eNqtlWd3VkUUhTfGiAQJICggUhI6IdKColKkBSVRqaFIJxRFEQRioaqgKF0iITRD6NL5g8O+5wmuYeWr66575r5zzjt3yn72ldZrkbpoqVJ6SR85lqhRM/WyZuszlWqJNugVzdVGddUardQsveqaL9XNsUxfqZe6a6u26zX/TqmHNrkt1zcaqZ7R08s1n6i3KxbodfXT2+qjr/3UVwPUrDdUoVF6Uwdc28+9KfV3f0oD1N8Vb2mIBmug20r/rxhtUMTBOu92iPtTGho9FRErIw7TBbfDNULDfA93HKly1fs9VX7baI3TGF9F5diIVc5UqNX9E1StiXrHV7Uz4yPb6t5x7q3WWE1Sm25qcvTXRJyid1Xje4rje24na6rrRuiS3td4feD3jNaHzjzStKifHnFGxBLvcqPY83xX2fk52uLnud77lOZFfa33eL/ma4erPtZufet9LfZ/gXc3pbqoqdchr/ZTj1ziMWb7FD9XMQZvWehT7uLTXqVlWqwv/LTEJ7y64/SXub/BmQa3y51t0ArnUloZJ19kF7l3uf+52plS93XVWl9rXMMI62Kk9ZLWWTWlfvvG0M4m9fhPXY0q1r059LXFqyyzerprnrZ5dbWZuuZ7bWVe3XavbqcV00d1VlW5V7fDuW5efaGrnaGrXfpOTb53WUG7vTcp7Ynd2BuxSd9rr+8m/eCr0N2PobufIrsvFLvfM6wNFaZ00Jme3sd6x8OOdfrZ86vVL6HTX9VivRyxllp0VMd1Rr/phM7qd530TI5F/g9rplV/6rTOueKoRz3hqpROumqPTkXmdLzrTMSzEf+KeC5ic8S/I543Aym1eOSqUPZzTV4MVSr4ZW85BfjtrChohceca/iFUBiHZTiFWdiEwaGdSIdlmIVfOMUBYByKIRpyoRj2IQVqIAhyoXhGxg4cwRTEQR8kwn5l5gmwX5PxDvv4AJ6AA8A11OMAuAHO0NkH4Jd9Zv/ZbQiFwZw7TienG35hGU5hNqceulEOGsMH6jLloC50iAM0Z+pCgWgVPaMldIXeUCOKZaUXMgWiTHSLttEeFKB5uIAaSIGjnC84gjLowxnwEHwGR4JQeMcZcBI8B1+CZZwBD8FPcB48CupxBpwEV8FhcCH8AQ/BT/AW3AMnwVVwHk4cH8PrcEU8kxPHCfFMHBW/zZ0WH76sK3ri64qfruoftfu+6ojG2tzeeOGrdE1PHYuq677addv5NvfcNA9tQr0o+ZYrrznf7ro7bu/6uqN/fd3V8+/XPf9K6b7u6UEHQQ9U/IKph/ELyh55Njc6vmWPMxKZPzNnFcw/nyczYbbMJ19dPv98np2/xazr/53/MwgjzAE=" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD2.3" />
+          <attribute id="NbClosestVertices" type="int32" value="1152" />
+        </node>
+      </children>
+    </node>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="eNqtlWd3VkUUhTfGiAQJICggUhI6IdKColKkBSVRqaFIJxRFEQRioaqgKF0iITRD6NL5g8O+5wmuYeWr66575r5zzjt3yn72ldZrkbpoqVJ6SR85lqhRM/WyZuszlWqJNugVzdVGddUardQsveqaL9XNsUxfqZe6a6u26zX/TqmHNrkt1zcaqZ7R08s1n6i3KxbodfXT2+qjr/3UVwPUrDdUoVF6Uwdc28+9KfV3f0oD1N8Vb2mIBmug20r/rxhtUMTBOu92iPtTGho9FRErIw7TBbfDNULDfA93HKly1fs9VX7baI3TGF9F5diIVc5UqNX9E1StiXrHV7Uz4yPb6t5x7q3WWE1Sm25qcvTXRJyid1Xje4rje24na6rrRuiS3td4feD3jNaHzjzStKifHnFGxBLvcqPY83xX2fk52uLnud77lOZFfa33eL/ma4erPtZufet9LfZ/gXc3pbqoqdchr/ZTj1ziMWb7FD9XMQZvWehT7uLTXqVlWqwv/LTEJ7y64/SXub/BmQa3y51t0ArnUloZJ19kF7l3uf+52plS93XVWl9rXMMI62Kk9ZLWWTWlfvvG0M4m9fhPXY0q1r059LXFqyyzerprnrZ5dbWZuuZ7bWVe3XavbqcV00d1VlW5V7fDuW5efaGrnaGrXfpOTb53WUG7vTcp7Ynd2BuxSd9rr+8m/eCr0N2PobufIrsvFLvfM6wNFaZ00Jme3sd6x8OOdfrZ86vVL6HTX9VivRyxllp0VMd1Rr/phM7qd530TI5F/g9rplV/6rTOueKoRz3hqpROumqPTkXmdLzrTMSzEf+KeC5ic8S/I543Aym1eOSqUPZzTV4MVSr4ZW85BfjtrChohceca/iFUBiHZTiFWdiEwaGdSIdlmIVfOMUBYByKIRpyoRj2IQVqIAhyoXhGxg4cwRTEQR8kwn5l5gmwX5PxDvv4AJ6AA8A11OMAuAHO0NkH4Jd9Zv/ZbQiFwZw7TienG35hGU5hNqceulEOGsMH6jLloC50iAM0Z+pCgWgVPaMldIXeUCOKZaUXMgWiTHSLttEeFKB5uIAaSIGjnC84gjLowxnwEHwGR4JQeMcZcBI8B1+CZZwBD8FPcB48CupxBpwEV8FhcCH8AQ/BT/AW3AMnwVVwHk4cH8PrcEU8kxPHCfFMHBW/zZ0WH76sK3ri64qfruoftfu+6ojG2tzeeOGrdE1PHYuq677addv5NvfcNA9tQr0o+ZYrrznf7ro7bu/6uqN/fd3V8+/XPf9K6b7u6UEHQQ9U/IKph/ELyh55Njc6vmWPMxKZPzNnFcw/nyczYbbMJ19dPv98np2/xazr/53/MwgjzAE=" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD3.4" />
+          <attribute id="NbClosestVertices" type="int32" value="1152" />
+        </node>
+      </children>
+    </node>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="eNqtlWd3VkUUhTfGiAQJICggUhI6IdKColKkBSVRqaFIJxRFEQRioaqgKF0iITRD6NL5g8O+5wmuYeWr66575r5zzjt3yn72ldZrkbpoqVJ6SR85lqhRM/WyZuszlWqJNugVzdVGddUardQsveqaL9XNsUxfqZe6a6u26zX/TqmHNrkt1zcaqZ7R08s1n6i3KxbodfXT2+qjr/3UVwPUrDdUoVF6Uwdc28+9KfV3f0oD1N8Vb2mIBmug20r/rxhtUMTBOu92iPtTGho9FRErIw7TBbfDNULDfA93HKly1fs9VX7baI3TGF9F5diIVc5UqNX9E1StiXrHV7Uz4yPb6t5x7q3WWE1Sm25qcvTXRJyid1Xje4rje24na6rrRuiS3td4feD3jNaHzjzStKifHnFGxBLvcqPY83xX2fk52uLnud77lOZFfa33eL/ma4erPtZufet9LfZ/gXc3pbqoqdchr/ZTj1ziMWb7FD9XMQZvWehT7uLTXqVlWqwv/LTEJ7y64/SXub/BmQa3y51t0ArnUloZJ19kF7l3uf+52plS93XVWl9rXMMI62Kk9ZLWWTWlfvvG0M4m9fhPXY0q1r059LXFqyyzerprnrZ5dbWZuuZ7bWVe3XavbqcV00d1VlW5V7fDuW5efaGrnaGrXfpOTb53WUG7vTcp7Ynd2BuxSd9rr+8m/eCr0N2PobufIrsvFLvfM6wNFaZ00Jme3sd6x8OOdfrZ86vVL6HTX9VivRyxllp0VMd1Rr/phM7qd530TI5F/g9rplV/6rTOueKoRz3hqpROumqPTkXmdLzrTMSzEf+KeC5ic8S/I543Aym1eOSqUPZzTV4MVSr4ZW85BfjtrChohceca/iFUBiHZTiFWdiEwaGdSIdlmIVfOMUBYByKIRpyoRj2IQVqIAhyoXhGxg4cwRTEQR8kwn5l5gmwX5PxDvv4AJ6AA8A11OMAuAHO0NkH4Jd9Zv/ZbQiFwZw7TienG35hGU5hNqceulEOGsMH6jLloC50iAM0Z+pCgWgVPaMldIXeUCOKZaUXMgWiTHSLttEeFKB5uIAaSIGjnC84gjLowxnwEHwGR4JQeMcZcBI8B1+CZZwBD8FPcB48CupxBpwEV8FhcCH8AQ/BT/AW3AMnwVVwHk4cH8PrcEU8kxPHCfFMHBW/zZ0WH76sK3ri64qfruoftfu+6ojG2tzeeOGrdE1PHYuq677addv5NvfcNA9tQr0o+ZYrrznf7ro7bu/6uqN/fd3V8+/XPf9K6b7u6UEHQQ9U/IKph/ELyh55Njc6vmWPMxKZPzNnFcw/nyczYbbMJ19dPv98np2/xazr/53/MwgjzAE=" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD4.5" />
+          <attribute id="NbClosestVertices" type="int32" value="1152" />
+        </node>
+      </children>
+    </node>
+  </children>
+</node>
 							</children>
 						</node>
-						<node id="ClothParams">
-							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh.1" />
-							<attribute id="LinearStiffness" type="float" value="1" />
-							<attribute id="BendingStiffness" type="float" value="1" />
-							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
-							<attribute id="FrontalWindSpeed" type="float" value="0" />
-							<attribute id="FrontalWindVariance" type="float" value="0" />
-							<attribute id="StiffnessMultiplier" type="float" value="1" />
-							<attribute id="CompressionLimit" type="float" value="0.8" />
-							<attribute id="StretchLimit" type="float" value="1.2" />
-							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
-							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
-							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="Damping" type="fvec3" value="0.02 0.02 0.02" />
-							<attribute id="CollisionMassScale" type="float" value="1" />
-							<attribute id="DragCoefficient" type="float" value="0.4" />
-							<attribute id="FluidDensity" type="float" value="0.1" />
-							<attribute id="Friction" type="float" value="0.1" />
-							<attribute id="LiftCoefficient" type="float" value="0.01" />
-							<attribute id="TetherConstraintScale" type="float" value="1" />
-							<attribute id="TetherConstraintStiffness" type="float" value="1" />
-							<attribute id="SolverFrequency" type="float" value="30" />
-							<attribute id="StiffnessFrequency" type="float" value="100" />
-							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
-							<attribute id="ClothWindSpeed" type="float" value="0" />
-							<attribute id="ClothMainWindVariance" type="float" value="0" />
-							<attribute id="ClothMainWindSpeed" type="float" value="0" />
-							<attribute id="ClothMainWindFrequency" type="float" value="0" />
-							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
-							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
-							<attribute id="SelfCollisionDistance" type="float" value="0" />
-							<attribute id="SelfCollisionStiffness" type="float" value="0" />
-							<attribute id="EnableVirtualParticles" type="bool" value="False" />
-							<attribute id="EnableCCD" type="bool" value="False" />
-							<attribute id="AnimDriveSpringForce" type="float" value="25" />
-							<attribute id="AnimDriveDampingForce" type="float" value="0" />
-							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
-						</node>
-						<node id="ClothParams">
-							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD1.6" />
-							<attribute id="LinearStiffness" type="float" value="1" />
-							<attribute id="BendingStiffness" type="float" value="1" />
-							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
-							<attribute id="FrontalWindSpeed" type="float" value="0" />
-							<attribute id="FrontalWindVariance" type="float" value="0" />
-							<attribute id="StiffnessMultiplier" type="float" value="1" />
-							<attribute id="CompressionLimit" type="float" value="0.8" />
-							<attribute id="StretchLimit" type="float" value="1.2" />
-							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
-							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
-							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
-							<attribute id="CollisionMassScale" type="float" value="1" />
-							<attribute id="DragCoefficient" type="float" value="0.4" />
-							<attribute id="FluidDensity" type="float" value="0.1" />
-							<attribute id="Friction" type="float" value="0.1" />
-							<attribute id="LiftCoefficient" type="float" value="0.01" />
-							<attribute id="TetherConstraintScale" type="float" value="1" />
-							<attribute id="TetherConstraintStiffness" type="float" value="1" />
-							<attribute id="SolverFrequency" type="float" value="30" />
-							<attribute id="StiffnessFrequency" type="float" value="100" />
-							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
-							<attribute id="ClothWindSpeed" type="float" value="0" />
-							<attribute id="ClothMainWindVariance" type="float" value="0" />
-							<attribute id="ClothMainWindSpeed" type="float" value="0" />
-							<attribute id="ClothMainWindFrequency" type="float" value="0" />
-							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
-							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
-							<attribute id="SelfCollisionDistance" type="float" value="0" />
-							<attribute id="SelfCollisionStiffness" type="float" value="0" />
-							<attribute id="EnableVirtualParticles" type="bool" value="True" />
-							<attribute id="EnableCCD" type="bool" value="False" />
-							<attribute id="AnimDriveSpringForce" type="float" value="100" />
-							<attribute id="AnimDriveDampingForce" type="float" value="0" />
-							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
-						</node>
-						<node id="ClothParams">
-							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD2.7" />
-							<attribute id="LinearStiffness" type="float" value="1" />
-							<attribute id="BendingStiffness" type="float" value="1" />
-							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
-							<attribute id="FrontalWindSpeed" type="float" value="0" />
-							<attribute id="FrontalWindVariance" type="float" value="0" />
-							<attribute id="StiffnessMultiplier" type="float" value="1" />
-							<attribute id="CompressionLimit" type="float" value="0.8" />
-							<attribute id="StretchLimit" type="float" value="1.2" />
-							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
-							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
-							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
-							<attribute id="CollisionMassScale" type="float" value="1" />
-							<attribute id="DragCoefficient" type="float" value="0.4" />
-							<attribute id="FluidDensity" type="float" value="0.1" />
-							<attribute id="Friction" type="float" value="0.1" />
-							<attribute id="LiftCoefficient" type="float" value="0.01" />
-							<attribute id="TetherConstraintScale" type="float" value="1" />
-							<attribute id="TetherConstraintStiffness" type="float" value="1" />
-							<attribute id="SolverFrequency" type="float" value="30" />
-							<attribute id="StiffnessFrequency" type="float" value="100" />
-							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
-							<attribute id="ClothWindSpeed" type="float" value="0" />
-							<attribute id="ClothMainWindVariance" type="float" value="0" />
-							<attribute id="ClothMainWindSpeed" type="float" value="0" />
-							<attribute id="ClothMainWindFrequency" type="float" value="0" />
-							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
-							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
-							<attribute id="SelfCollisionDistance" type="float" value="0" />
-							<attribute id="SelfCollisionStiffness" type="float" value="0" />
-							<attribute id="EnableVirtualParticles" type="bool" value="True" />
-							<attribute id="EnableCCD" type="bool" value="False" />
-							<attribute id="AnimDriveSpringForce" type="float" value="100" />
-							<attribute id="AnimDriveDampingForce" type="float" value="0" />
-							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
-						</node>
-						<node id="ClothParams">
-							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD3.8" />
-							<attribute id="LinearStiffness" type="float" value="1" />
-							<attribute id="BendingStiffness" type="float" value="1" />
-							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
-							<attribute id="FrontalWindSpeed" type="float" value="0" />
-							<attribute id="FrontalWindVariance" type="float" value="0" />
-							<attribute id="StiffnessMultiplier" type="float" value="1" />
-							<attribute id="CompressionLimit" type="float" value="0.8" />
-							<attribute id="StretchLimit" type="float" value="1.2" />
-							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
-							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
-							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
-							<attribute id="CollisionMassScale" type="float" value="1" />
-							<attribute id="DragCoefficient" type="float" value="0.4" />
-							<attribute id="FluidDensity" type="float" value="0.1" />
-							<attribute id="Friction" type="float" value="0.1" />
-							<attribute id="LiftCoefficient" type="float" value="0.01" />
-							<attribute id="TetherConstraintScale" type="float" value="1" />
-							<attribute id="TetherConstraintStiffness" type="float" value="1" />
-							<attribute id="SolverFrequency" type="float" value="30" />
-							<attribute id="StiffnessFrequency" type="float" value="100" />
-							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
-							<attribute id="ClothWindSpeed" type="float" value="0" />
-							<attribute id="ClothMainWindVariance" type="float" value="0" />
-							<attribute id="ClothMainWindSpeed" type="float" value="0" />
-							<attribute id="ClothMainWindFrequency" type="float" value="0" />
-							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
-							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
-							<attribute id="SelfCollisionDistance" type="float" value="0" />
-							<attribute id="SelfCollisionStiffness" type="float" value="0" />
-							<attribute id="EnableVirtualParticles" type="bool" value="True" />
-							<attribute id="EnableCCD" type="bool" value="False" />
-							<attribute id="AnimDriveSpringForce" type="float" value="100" />
-							<attribute id="AnimDriveDampingForce" type="float" value="0" />
-							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
-						</node>
-						<node id="ClothParams">
-							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD4.9" />
-							<attribute id="LinearStiffness" type="float" value="1" />
-							<attribute id="BendingStiffness" type="float" value="1" />
-							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
-							<attribute id="FrontalWindSpeed" type="float" value="0" />
-							<attribute id="FrontalWindVariance" type="float" value="0" />
-							<attribute id="StiffnessMultiplier" type="float" value="1" />
-							<attribute id="CompressionLimit" type="float" value="0.8" />
-							<attribute id="StretchLimit" type="float" value="1.2" />
-							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
-							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
-							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
-							<attribute id="CollisionMassScale" type="float" value="1" />
-							<attribute id="DragCoefficient" type="float" value="0.4" />
-							<attribute id="FluidDensity" type="float" value="0.1" />
-							<attribute id="Friction" type="float" value="0.1" />
-							<attribute id="LiftCoefficient" type="float" value="0.01" />
-							<attribute id="TetherConstraintScale" type="float" value="1" />
-							<attribute id="TetherConstraintStiffness" type="float" value="1" />
-							<attribute id="SolverFrequency" type="float" value="30" />
-							<attribute id="StiffnessFrequency" type="float" value="100" />
-							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
-							<attribute id="ClothWindSpeed" type="float" value="0" />
-							<attribute id="ClothMainWindVariance" type="float" value="0" />
-							<attribute id="ClothMainWindSpeed" type="float" value="0" />
-							<attribute id="ClothMainWindFrequency" type="float" value="0" />
-							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
-							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
-							<attribute id="SelfCollisionDistance" type="float" value="0" />
-							<attribute id="SelfCollisionStiffness" type="float" value="0" />
-							<attribute id="EnableVirtualParticles" type="bool" value="True" />
-							<attribute id="EnableCCD" type="bool" value="False" />
-							<attribute id="AnimDriveSpringForce" type="float" value="100" />
-							<attribute id="AnimDriveDampingForce" type="float" value="0" />
-							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
-						</node>
-						<node id="Base" />
 					</children>
 				</node>
 			</children>
