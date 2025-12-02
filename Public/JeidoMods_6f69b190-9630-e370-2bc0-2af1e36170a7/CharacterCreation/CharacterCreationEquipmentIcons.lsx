@@ -24,7 +24,7 @@
                 </node>
                 <node id="CharacterCreationEquipmentIcon">
                     <attribute id="AnimationUUID" type="guid" value="beeabe70-56cd-4cb4-aa83-4f032dcfe146"/>
-                    <attribute id="EquipmentTemplate" type="guid" value="5476deb7-2f4e-41fc-a2d2-d046acbf07a7"/>
+                    <attribute id="EquipmentTemplate" type="guid" value="ccd6dda7-615d-4d1b-b352-d0d2f8091d73"/>
                     <attribute id="RootTemplate" type="guid" value="75a43caa-175d-446f-a879-77bb3697070c"/>
                     <attribute id="SlotName" type="FixedString" value="Footwear"/>
                     <attribute id="UUID" type="guid" value="a412c6ff-bc1d-4541-b32a-37cd472b0dd6"/>

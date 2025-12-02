@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
 	<region id="VisualBank">
@@ -47,8 +47,28 @@
 						</node>
 						<node id="Objects">
 							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Down.HUM_Down.0" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="MaterialID" type="FixedString" value="45c6d254-16fe-72e6-e695-b776cd6df7f4" />
 							<attribute id="LOD" type="uint8" value="0" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Down.HUM_Down_LOD1.1" />
+							<attribute id="MaterialID" type="FixedString" value="45c6d254-16fe-72e6-e695-b776cd6df7f4" />
+							<attribute id="LOD" type="uint8" value="1" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Down.HUM_Down_LOD2.2" />
+							<attribute id="MaterialID" type="FixedString" value="45c6d254-16fe-72e6-e695-b776cd6df7f4" />
+							<attribute id="LOD" type="uint8" value="2" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Down.HUM_Down_LOD3.3" />
+							<attribute id="MaterialID" type="FixedString" value="45c6d254-16fe-72e6-e695-b776cd6df7f4" />
+							<attribute id="LOD" type="uint8" value="3" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Down.HUM_Down_LOD4.4" />
+							<attribute id="MaterialID" type="FixedString" value="45c6d254-16fe-72e6-e695-b776cd6df7f4" />
+							<attribute id="LOD" type="uint8" value="4" />
 						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />

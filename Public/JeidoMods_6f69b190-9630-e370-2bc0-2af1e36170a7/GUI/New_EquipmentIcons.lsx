@@ -26,6 +26,13 @@
                     <attribute id="V2" type="float" value="0.24804688"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_IconGenerator_Gloves"/>
+                    <attribute id="U1" type="float" value="0.75195312"/>
+                    <attribute id="U2" type="float" value="0.99804688"/>
+                    <attribute id="V1" type="float" value="0.001953125"/>
+                    <attribute id="V2" type="float" value="0.24804688"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="JEI_IconGenerator_Head"/>
                     <attribute id="U1" type="float" value="0.001953125"/>
                     <attribute id="U2" type="float" value="0.24804688"/>

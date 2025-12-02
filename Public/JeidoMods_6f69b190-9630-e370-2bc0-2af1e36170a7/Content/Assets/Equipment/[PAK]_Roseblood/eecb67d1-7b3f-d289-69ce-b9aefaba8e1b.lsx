@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
 	<region id="MaterialBank">
@@ -99,7 +99,7 @@
 							<attribute id="ParameterName" type="FixedString" value="Accent_Color" />
 							<attribute id="GroupName" type="FixedString" value="02 Colour" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="Value" type="fvec3" value="0.37867624 0.58597296 0.6253447" />
+							<attribute id="Value" type="fvec3" value="0.41514808 0.41514808 0.41514808" />
 							<attribute id="BaseValue" type="fvec3" value="1 1 1" />
 							<attribute id="IsColor" type="bool" value="True" />
 						</node>
@@ -108,7 +108,7 @@
 							<attribute id="ParameterName" type="FixedString" value="Leather_Primary" />
 							<attribute id="GroupName" type="FixedString" value="02 Colour" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
-							<attribute id="Value" type="fvec3" value="0.027755277 0.027755277 0.027755277" />
+							<attribute id="Value" type="fvec3" value="0.13320851 0.0824142 0.07805659" />
 							<attribute id="BaseValue" type="fvec3" value="0.23882797 0.10363409 0.060031604" />
 							<attribute id="IsColor" type="bool" value="True" />
 						</node>

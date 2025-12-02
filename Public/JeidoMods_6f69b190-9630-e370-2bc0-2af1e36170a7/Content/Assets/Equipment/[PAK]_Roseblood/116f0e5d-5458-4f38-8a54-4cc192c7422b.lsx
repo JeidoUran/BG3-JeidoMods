@@ -32,54 +32,57 @@
 							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
 							<attribute id="LOD" type="uint8" value="0" />
 						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh.1" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="LOD" type="uint8" value="0" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD1.2" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="LOD" type="uint8" value="1" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD2.3" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="LOD" type="uint8" value="2" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD3.4" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="LOD" type="uint8" value="3" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_LOD4.5" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="LOD" type="uint8" value="4" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD1.6" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="LOD" type="uint8" value="1" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD2.7" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="LOD" type="uint8" value="2" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD3.8" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="LOD" type="uint8" value="3" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh_LOD4.9" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="LOD" type="uint8" value="4" />
+						</node>
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="" />
 						</node>
-						<node id="Base" />
-            <node id="ClothParams">
-							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
-							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="AnimDriveDampingForce" type="float" value="0" />
-							<attribute id="AnimDriveSpringForce" type="float" value="25" />
-							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
-							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
-							<attribute id="BendingStiffness" type="float" value="1" />
-							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="ClothMainWindFrequency" type="float" value="0" />
-							<attribute id="ClothMainWindSpeed" type="float" value="0" />
-							<attribute id="ClothMainWindVariance" type="float" value="0" />
-							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
-							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
-							<attribute id="ClothWindSpeed" type="float" value="0" />
-							<attribute id="CollisionMassScale" type="float" value="1" />
-							<attribute id="CompressionLimit" type="float" value="0.8" />
-							<attribute id="Damping" type="fvec3" value="0.02 0.02 0.02" />
-							<attribute id="DragCoefficient" type="float" value="0.4" />
-							<attribute id="EnableCCD" type="bool" value="False" />
-							<attribute id="EnableVirtualParticles" type="bool" value="False" />
-							<attribute id="FluidDensity" type="float" value="0.1" />
-							<attribute id="Friction" type="float" value="0.1" />
-							<attribute id="FrontalWindSpeed" type="float" value="0" />
-							<attribute id="FrontalWindVariance" type="float" value="0" />
-							<attribute id="LiftCoefficient" type="float" value="0.01" />
-							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
-							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="LinearStiffness" type="float" value="1" />
-							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
-							<attribute id="SelfCollisionDistance" type="float" value="0" />
-							<attribute id="SelfCollisionStiffness" type="float" value="0" />
-							<attribute id="SolverFrequency" type="float" value="30" />
-							<attribute id="StiffnessFrequency" type="float" value="100" />
-							<attribute id="StiffnessMultiplier" type="float" value="1" />
-							<attribute id="StretchLimit" type="float" value="1.2" />
-							<attribute id="TetherConstraintScale" type="float" value="1" />
-							<attribute id="TetherConstraintStiffness" type="float" value="1" />
-							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh.1" /> Put the name of your Cloth_Mesh here
-						</node>
-
 						<node id="ClothProxyMapping">
 							<children>
-								<node id="Object">
+<node id="Object">
   <attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh.1" />
   <children>
     <node id="MapValue">
@@ -131,6 +134,47 @@
 </node>
 							</children>
 						</node>
+						<node id="ClothParams">
+							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_BackCape.HUM_Cape_Cloth_Mesh.1" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="Damping" type="fvec3" value="0.02 0.02 0.02" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="100" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="AnimDriveSpringForce" type="float" value="25" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+						</node>
+						<node id="Base" />
 					</children>
 				</node>
 			</children>

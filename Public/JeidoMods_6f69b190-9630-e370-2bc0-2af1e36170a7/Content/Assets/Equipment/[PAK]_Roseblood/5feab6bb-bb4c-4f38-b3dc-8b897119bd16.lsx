@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
 	<region id="VisualBank">
@@ -62,43 +62,43 @@
 							<attribute id="LOD" type="uint8" value="0" />
 						</node>
 						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD1.2" />
-							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD1.2" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
 							<attribute id="LOD" type="uint8" value="1" />
 						</node>
 						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD2.3" />
-							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD2.3" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
 							<attribute id="LOD" type="uint8" value="2" />
 						</node>
 						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD3.4" />
-							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD3.4" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
 							<attribute id="LOD" type="uint8" value="3" />
 						</node>
 						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD4.5" />
-							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD4.5" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
 							<attribute id="LOD" type="uint8" value="4" />
 						</node>
 						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD1.6" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD1.6" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
 							<attribute id="LOD" type="uint8" value="1" />
 						</node>
 						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD2.7" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD2.7" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
 							<attribute id="LOD" type="uint8" value="2" />
 						</node>
 						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD3.8" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD3.8" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
 							<attribute id="LOD" type="uint8" value="3" />
 						</node>
 						<node id="Objects">
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD4.9" />
-							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD4.9" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
 							<attribute id="LOD" type="uint8" value="4" />
 						</node>
 						<node id="AnimationWaterfall">
@@ -106,68 +106,56 @@
 						</node>
 						<node id="ClothProxyMapping">
 							<children>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh.1" />
-									<children>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="3327" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top.0" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
-												</node>
-											</children>
-										</node>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="3327" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD1.2" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
-												</node>
-											</children>
-										</node>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="3327" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD2.3" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
-												</node>
-											</children>
-										</node>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="3327" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD3.4" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
-												</node>
-											</children>
-										</node>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="3327" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD4.5" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
-												</node>
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD1.6" />
-								</node>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD2.7" />
-								</node>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD3.8" />
-								</node>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD4.9" />
-								</node>
+<node id="Object">
+  <attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh.1" />
+  <children>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top.0" />
+          <attribute id="NbClosestVertices" type="int32" value="3327" />
+        </node>
+      </children>
+    </node>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD1.6" />
+          <attribute id="NbClosestVertices" type="int32" value="3327" />
+        </node>
+      </children>
+    </node>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD2.7" />
+          <attribute id="NbClosestVertices" type="int32" value="3327" />
+        </node>
+      </children>
+    </node>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD3.8" />
+          <attribute id="NbClosestVertices" type="int32" value="3327" />
+        </node>
+      </children>
+    </node>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD4.9" />
+          <attribute id="NbClosestVertices" type="int32" value="3327" />
+        </node>
+      </children>
+    </node>
+  </children>
+</node>
 							</children>
 						</node>
 						<node id="ClothParams">
@@ -185,7 +173,7 @@
 							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
 							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
 							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
-							<attribute id="Damping" type="fvec3" value="0.02 0.02 0.02" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
 							<attribute id="CollisionMassScale" type="float" value="1" />
 							<attribute id="DragCoefficient" type="float" value="0.4" />
 							<attribute id="FluidDensity" type="float" value="0.1" />
@@ -207,6 +195,166 @@
 							<attribute id="EnableVirtualParticles" type="bool" value="False" />
 							<attribute id="EnableCCD" type="bool" value="False" />
 							<attribute id="AnimDriveSpringForce" type="float" value="25" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD1.6" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="100" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="EnableVirtualParticles" type="bool" value="True" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD2.7" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="100" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="EnableVirtualParticles" type="bool" value="True" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD3.8" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="100" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="EnableVirtualParticles" type="bool" value="True" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+						</node>
+						<node id="ClothParams">
+							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD4.9" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="Damping" type="fvec3" value="0.015 0.015 0.015" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="100" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="EnableVirtualParticles" type="bool" value="True" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="AnimDriveSpringForce" type="float" value="100" />
 							<attribute id="AnimDriveDampingForce" type="float" value="0" />
 							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
 						</node>

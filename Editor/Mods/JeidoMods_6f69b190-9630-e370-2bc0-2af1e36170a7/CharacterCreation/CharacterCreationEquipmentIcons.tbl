@@ -33,7 +33,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
         <field name="UUID" type="IdTableFieldDefinition" value="a412c6ff-bc1d-4541-b32a-37cd472b0dd6" />
         <field name="RootTemplate" type="GuidTableFieldDefinition" value="75a43caa-175d-446f-a879-77bb3697070c" />
-        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="5476deb7-2f4e-41fc-a2d2-d046acbf07a7" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="ccd6dda7-615d-4d1b-b352-d0d2f8091d73" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Footwear" enumeration_type_name="EquipmentIconCameraNames" version="1" />
         <field name="AnimationUUID" type="GuidTableFieldDefinition" value="beeabe70-56cd-4cb4-aa83-4f032dcfe146" />
       </fields>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
 	<region id="VisualBank">
@@ -82,68 +82,56 @@
 						</node>
 						<node id="ClothProxyMapping">
 							<children>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_Cloth_Mesh.0" />
-									<children>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="1338" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_LOD4.5" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNrl1eVTFAEYx/E78ugjBEwMDFQ4G1ABA1ABFYZRQAVUQEVF+WsQuzGxsbG7sAsbxcDuRue7L/zNrDq+9158Xtzs3j7P7vdmLZbGnx8rOqEzuqAruqE72tADPdELvdEHfdEP7eiPARiIQdgEgzEEQ7EpNsPm2AJbYisMw9bYBttiOwzH9tgBO2InjMDO2AW7YiRGoQO7YXfsgT2xF/bGPhiNMRiLfbEf9sc4jMcEHIADcRAOxkRMwmQcgkNxGKZgKqbhcByBIzEdM2TTTNl0FI7GLMzGHByDY3Ec5mIe5uN4nIATsQALsQgn4WScgsU4FafhdCzBGTjT9CxK0SKtWk3Fukm37tKqTYr1lm61WLt0+6dig6XbEGk19K/Fhkm35mLDpVtzsRHSrRYbKd1GSauOfyg2WrqNkVZjpdg46TZeWk0wFZso3SZJq8lSbIp0myqtpkmx6dJthmnTTCk2S7rNllZzpNhc6TZPWs2XYguk20JptUiKLZZutdgS6dZcbKk8izKcheU4G+fgXJyH83EBLsRFuBiX4FJchsuxAlfgSlyFq3ENrsVKXIfrcQNuxE0yiXHdzbhFZqvCrbgNt+MO3Im7cDdW4x7ci/vkmGo5q1Km2i87GtsdkB2N7Q7iITyMR/AoHsPjeAJP4ik8jWewBs/iOTyPF/AiXsLLeAWv4jW8jrV4A2/iLbyNd2QS47p38Z7MVof38QHW40N8hI/xCTbgU3yGz+WYBjmrVqZ6ITsa272UHY3tXsn9rJf7XGO6S3WmaculijKpV7utMvXzGt/gW3yH7/EDfsRP+FmOd8j/7gt+xW/4HRuNd4eVtwY6oTO6oKv1128av2PjGw/0RC/0Rh/0RT+0oz8GYCAGWX8/7f+59Q+ESK7o" />
-												</node>
-											</children>
-										</node>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="1338" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc.1" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNrl1eVTFAEYx/E78ugjBEwMDFQ4G1ABA1ABFYZRQAVUQEVF+WsQuzGxsbG7sAsbxcDuRue7L/zNrDq+9158Xtzs3j7P7vdmLZbGnx8rOqEzuqAruqE72tADPdELvdEHfdEP7eiPARiIQdgEgzEEQ7EpNsPm2AJbYisMw9bYBttiOwzH9tgBO2InjMDO2AW7YiRGoQO7YXfsgT2xF/bGPhiNMRiLfbEf9sc4jMcEHIADcRAOxkRMwmQcgkNxGKZgKqbhcByBIzEdM2TTTNl0FI7GLMzGHByDY3Ec5mIe5uN4nIATsQALsQgn4WScgsU4FafhdCzBGTjT9CxK0SKtWk3Fukm37tKqTYr1lm61WLt0+6dig6XbEGk19K/Fhkm35mLDpVtzsRHSrRYbKd1GSauOfyg2WrqNkVZjpdg46TZeWk0wFZso3SZJq8lSbIp0myqtpkmx6dJthmnTTCk2S7rNllZzpNhc6TZPWs2XYguk20JptUiKLZZutdgS6dZcbKk8izKcheU4G+fgXJyH83EBLsRFuBiX4FJchsuxAlfgSlyFq3ENrsVKXIfrcQNuxE0yiXHdzbhFZqvCrbgNt+MO3Im7cDdW4x7ci/vkmGo5q1Km2i87GtsdkB2N7Q7iITyMR/AoHsPjeAJP4ik8jWewBs/iOTyPF/AiXsLLeAWv4jW8jrV4A2/iLbyNd2QS47p38Z7MVof38QHW40N8hI/xCTbgU3yGz+WYBjmrVqZ6ITsa272UHY3tXsn9rJf7XGO6S3WmaculijKpV7utMvXzGt/gW3yH7/EDfsRP+FmOd8j/7gt+xW/4HRuNd4eVtwY6oTO6oKv1128av2PjGw/0RC/0Rh/0RT+0oz8GYCAGWX8/7f+59Q+ESK7o" />
-												</node>
-											</children>
-										</node>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="1338" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_LOD1.2" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNrl1eVTFAEYx/E78ugjBEwMDFQ4G1ABA1ABFYZRQAVUQEVF+WsQuzGxsbG7sAsbxcDuRue7L/zNrDq+9158Xtzs3j7P7vdmLZbGnx8rOqEzuqAruqE72tADPdELvdEHfdEP7eiPARiIQdgEgzEEQ7EpNsPm2AJbYisMw9bYBttiOwzH9tgBO2InjMDO2AW7YiRGoQO7YXfsgT2xF/bGPhiNMRiLfbEf9sc4jMcEHIADcRAOxkRMwmQcgkNxGKZgKqbhcByBIzEdM2TTTNl0FI7GLMzGHByDY3Ec5mIe5uN4nIATsQALsQgn4WScgsU4FafhdCzBGTjT9CxK0SKtWk3Fukm37tKqTYr1lm61WLt0+6dig6XbEGk19K/Fhkm35mLDpVtzsRHSrRYbKd1GSauOfyg2WrqNkVZjpdg46TZeWk0wFZso3SZJq8lSbIp0myqtpkmx6dJthmnTTCk2S7rNllZzpNhc6TZPWs2XYguk20JptUiKLZZutdgS6dZcbKk8izKcheU4G+fgXJyH83EBLsRFuBiX4FJchsuxAlfgSlyFq3ENrsVKXIfrcQNuxE0yiXHdzbhFZqvCrbgNt+MO3Im7cDdW4x7ci/vkmGo5q1Km2i87GtsdkB2N7Q7iITyMR/AoHsPjeAJP4ik8jWewBs/iOTyPF/AiXsLLeAWv4jW8jrV4A2/iLbyNd2QS47p38Z7MVof38QHW40N8hI/xCTbgU3yGz+WYBjmrVqZ6ITsa272UHY3tXsn9rJf7XGO6S3WmaculijKpV7utMvXzGt/gW3yH7/EDfsRP+FmOd8j/7gt+xW/4HRuNd4eVtwY6oTO6oKv1128av2PjGw/0RC/0Rh/0RT+0oz8GYCAGWX8/7f+59Q+ESK7o" />
-												</node>
-											</children>
-										</node>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="1338" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_LOD2.3" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNrl1eVTFAEYx/E78ugjBEwMDFQ4G1ABA1ABFYZRQAVUQEVF+WsQuzGxsbG7sAsbxcDuRue7L/zNrDq+9158Xtzs3j7P7vdmLZbGnx8rOqEzuqAruqE72tADPdELvdEHfdEP7eiPARiIQdgEgzEEQ7EpNsPm2AJbYisMw9bYBttiOwzH9tgBO2InjMDO2AW7YiRGoQO7YXfsgT2xF/bGPhiNMRiLfbEf9sc4jMcEHIADcRAOxkRMwmQcgkNxGKZgKqbhcByBIzEdM2TTTNl0FI7GLMzGHByDY3Ec5mIe5uN4nIATsQALsQgn4WScgsU4FafhdCzBGTjT9CxK0SKtWk3Fukm37tKqTYr1lm61WLt0+6dig6XbEGk19K/Fhkm35mLDpVtzsRHSrRYbKd1GSauOfyg2WrqNkVZjpdg46TZeWk0wFZso3SZJq8lSbIp0myqtpkmx6dJthmnTTCk2S7rNllZzpNhc6TZPWs2XYguk20JptUiKLZZutdgS6dZcbKk8izKcheU4G+fgXJyH83EBLsRFuBiX4FJchsuxAlfgSlyFq3ENrsVKXIfrcQNuxE0yiXHdzbhFZqvCrbgNt+MO3Im7cDdW4x7ci/vkmGo5q1Km2i87GtsdkB2N7Q7iITyMR/AoHsPjeAJP4ik8jWewBs/iOTyPF/AiXsLLeAWv4jW8jrV4A2/iLbyNd2QS47p38Z7MVof38QHW40N8hI/xCTbgU3yGz+WYBjmrVqZ6ITsa272UHY3tXsn9rJf7XGO6S3WmaculijKpV7utMvXzGt/gW3yH7/EDfsRP+FmOd8j/7gt+xW/4HRuNd4eVtwY6oTO6oKv1128av2PjGw/0RC/0Rh/0RT+0oz8GYCAGWX8/7f+59Q+ESK7o" />
-												</node>
-											</children>
-										</node>
-										<node id="MapValue">
-											<children>
-												<node id="Object">
-													<attribute id="NbClosestVertices" type="int32" value="1338" />
-													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_LOD3.4" />
-													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNrl1eVTFAEYx/E78ugjBEwMDFQ4G1ABA1ABFYZRQAVUQEVF+WsQuzGxsbG7sAsbxcDuRue7L/zNrDq+9158Xtzs3j7P7vdmLZbGnx8rOqEzuqAruqE72tADPdELvdEHfdEP7eiPARiIQdgEgzEEQ7EpNsPm2AJbYisMw9bYBttiOwzH9tgBO2InjMDO2AW7YiRGoQO7YXfsgT2xF/bGPhiNMRiLfbEf9sc4jMcEHIADcRAOxkRMwmQcgkNxGKZgKqbhcByBIzEdM2TTTNl0FI7GLMzGHByDY3Ec5mIe5uN4nIATsQALsQgn4WScgsU4FafhdCzBGTjT9CxK0SKtWk3Fukm37tKqTYr1lm61WLt0+6dig6XbEGk19K/Fhkm35mLDpVtzsRHSrRYbKd1GSauOfyg2WrqNkVZjpdg46TZeWk0wFZso3SZJq8lSbIp0myqtpkmx6dJthmnTTCk2S7rNllZzpNhc6TZPWs2XYguk20JptUiKLZZutdgS6dZcbKk8izKcheU4G+fgXJyH83EBLsRFuBiX4FJchsuxAlfgSlyFq3ENrsVKXIfrcQNuxE0yiXHdzbhFZqvCrbgNt+MO3Im7cDdW4x7ci/vkmGo5q1Km2i87GtsdkB2N7Q7iITyMR/AoHsPjeAJP4ik8jWewBs/iOTyPF/AiXsLLeAWv4jW8jrV4A2/iLbyNd2QS47p38Z7MVof38QHW40N8hI/xCTbgU3yGz+WYBjmrVqZ6ITsa272UHY3tXsn9rJf7XGO6S3WmaculijKpV7utMvXzGt/gW3yH7/EDfsRP+FmOd8j/7gt+xW/4HRuNd4eVtwY6oTO6oKv1128av2PjGw/0RC/0Rh/0RT+0oz8GYCAGWX8/7f+59Q+ESK7o" />
-												</node>
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_Cloth_Mesh_LOD1.6" />
-								</node>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_Cloth_Mesh_LOD2.7" />
-								</node>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_Cloth_Mesh_LOD3.8" />
-								</node>
-								<node id="Object" key="MapKey">
-									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_Cloth_Mesh_LOD4.9" />
-								</node>
+<node id="Object">
+  <attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_Cloth_Mesh.0" />
+  <children>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="eNqN1WWwVAUYgOG79L3kpbu7Lh2X7i4VUQxMLFQMbEVQMMAAJewAA0QFFFBBQrAVUAQDFAQTxQI70HnOj/1m7twZ98czO2fO2fN9Z9+dzcg4/N8rxQIsyEIszCIsymLMZBaLswRLshRLswyzWZblWJ4VWJGVWJlVWJXVWJ01WJO1WJt1WJf1WJ8N2JCN2JhN2JTN2Jwt2JI5bMXWbMO2bMf27MCO7MTOzGUXdmU3dmcP9mQv9mYf9mU/9ucADuQgDuYQDuUwDucIjuQoHsEjeRRH82iO4TE8lmN5HI/nCTyR43gST+YpPJWn8XSO5xk8k2fxbJ7DCTyX5/H8PN/FRF7AC3kRL+YkXsJLQ7GXhW6zQquX84pQ7JWh27zFXsWrQ7fXhFYn89p8ip3CqbyO13Map/MG3sibQrE3h26TYmdwJm/hrbwtPKvbQ7GzODsUm7R6Ryg2N3R7Z2h1Tih2bug2KXZeaHU+7+Ldodt7Qqv3hmKTVu8Lxd4fun0gFPtg6PYhPswFXMhH+Cgf4+NcxMV8gkv4JJ/i01zKZVzOZ/gsV3AlV4VWnwvFPh++ixe4mmv4ItdyHddzA1/iRm7iy3yFr/I1vs43+Cbf4tvczC3cynf4LrfxPW7nDr7PD8IkyX0/5Edhtp3cxY/5CXdzDz/lXu7jZ/ycX4Rz9oWrtoWpvgw7Jtt9FXZMtvua+/kNv+UBfsfv+QN/5E88yEP8mb/wV/7G3/kH/+Rf/Jv/8DAzUv5DWYAFWYiFWSSVniS5b1FHiqXSs2V6n8XiLMGSLMXSLMNslmU5lg/nZIerUmGqCqn0jsl2FVPpHZPtKqXSzzOZYX94VvEpZeaZdm2oYk2oN3a7M08/lV1bhVVZjdVZgzVZi7XD+avD766OI3VZj/XZgA3ZiI3ZhE3ZjM3Zgi2Zw1ZszTZsy3Zszw7syE7szNx8po1bd2FXdmN39mBP9grn54T/x96O9GFf9vsfW/fngPCZydYDOYiDOYRD89l6GIdzBEdyVD7T/gvy1qke" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc.1" />
+          <attribute id="NbClosestVertices" type="int32" value="1338" />
+        </node>
+      </children>
+    </node>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="eNqN1WWwVAUYgOG79L3kpbu7Lh2X7i4VUQxMLFQMbEVQMMAAJewAA0QFFFBBQrAVUAQDFAQTxQI70HnOj/1m7twZ98czO2fO2fN9Z9+dzcg4/N8rxQIsyEIszCIsymLMZBaLswRLshRLswyzWZblWJ4VWJGVWJlVWJXVWJ01WJO1WJt1WJf1WJ8N2JCN2JhN2JTN2Jwt2JI5bMXWbMO2bMf27MCO7MTOzGUXdmU3dmcP9mQv9mYf9mU/9ucADuQgDuYQDuUwDucIjuQoHsEjeRRH82iO4TE8lmN5HI/nCTyR43gST+YpPJWn8XSO5xk8k2fxbJ7DCTyX5/H8PN/FRF7AC3kRL+YkXsJLQ7GXhW6zQquX84pQ7JWh27zFXsWrQ7fXhFYn89p8ip3CqbyO13Map/MG3sibQrE3h26TYmdwJm/hrbwtPKvbQ7GzODsUm7R6Ryg2N3R7Z2h1Tih2bug2KXZeaHU+7+Ldodt7Qqv3hmKTVu8Lxd4fun0gFPtg6PYhPswFXMhH+Cgf4+NcxMV8gkv4JJ/i01zKZVzOZ/gsV3AlV4VWnwvFPh++ixe4mmv4ItdyHddzA1/iRm7iy3yFr/I1vs43+Cbf4tvczC3cynf4LrfxPW7nDr7PD8IkyX0/5Edhtp3cxY/5CXdzDz/lXu7jZ/ycX4Rz9oWrtoWpvgw7Jtt9FXZMtvua+/kNv+UBfsfv+QN/5E88yEP8mb/wV/7G3/kH/+Rf/Jv/8DAzUv5DWYAFWYiFWSSVniS5b1FHiqXSs2V6n8XiLMGSLMXSLMNslmU5lg/nZIerUmGqCqn0jsl2FVPpHZPtKqXSzzOZYX94VvEpZeaZdm2oYk2oN3a7M08/lV1bhVVZjdVZgzVZi7XD+avD766OI3VZj/XZgA3ZiI3ZhE3ZjM3Zgi2Zw1ZszTZsy3Zszw7syE7szNx8po1bd2FXdmN39mBP9grn54T/x96O9GFf9vsfW/fngPCZydYDOYiDOYRD89l6GIdzBEdyVD7T/gvy1qke" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_LOD1.2" />
+          <attribute id="NbClosestVertices" type="int32" value="1338" />
+        </node>
+      </children>
+    </node>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="eNqN1WWwVAUYgOG79L3kpbu7Lh2X7i4VUQxMLFQMbEVQMMAAJewAA0QFFFBBQrAVUAQDFAQTxQI70HnOj/1m7twZ98czO2fO2fN9Z9+dzcg4/N8rxQIsyEIszCIsymLMZBaLswRLshRLswyzWZblWJ4VWJGVWJlVWJXVWJ01WJO1WJt1WJf1WJ8N2JCN2JhN2JTN2Jwt2JI5bMXWbMO2bMf27MCO7MTOzGUXdmU3dmcP9mQv9mYf9mU/9ucADuQgDuYQDuUwDucIjuQoHsEjeRRH82iO4TE8lmN5HI/nCTyR43gST+YpPJWn8XSO5xk8k2fxbJ7DCTyX5/H8PN/FRF7AC3kRL+YkXsJLQ7GXhW6zQquX84pQ7JWh27zFXsWrQ7fXhFYn89p8ip3CqbyO13Map/MG3sibQrE3h26TYmdwJm/hrbwtPKvbQ7GzODsUm7R6Ryg2N3R7Z2h1Tih2bug2KXZeaHU+7+Ldodt7Qqv3hmKTVu8Lxd4fun0gFPtg6PYhPswFXMhH+Cgf4+NcxMV8gkv4JJ/i01zKZVzOZ/gsV3AlV4VWnwvFPh++ixe4mmv4ItdyHddzA1/iRm7iy3yFr/I1vs43+Cbf4tvczC3cynf4LrfxPW7nDr7PD8IkyX0/5Edhtp3cxY/5CXdzDz/lXu7jZ/ycX4Rz9oWrtoWpvgw7Jtt9FXZMtvua+/kNv+UBfsfv+QN/5E88yEP8mb/wV/7G3/kH/+Rf/Jv/8DAzUv5DWYAFWYiFWSSVniS5b1FHiqXSs2V6n8XiLMGSLMXSLMNslmU5lg/nZIerUmGqCqn0jsl2FVPpHZPtKqXSzzOZYX94VvEpZeaZdm2oYk2oN3a7M08/lV1bhVVZjdVZgzVZi7XD+avD766OI3VZj/XZgA3ZiI3ZhE3ZjM3Zgi2Zw1ZszTZsy3Zszw7syE7szNx8po1bd2FXdmN39mBP9grn54T/x96O9GFf9vsfW/fngPCZydYDOYiDOYRD89l6GIdzBEdyVD7T/gvy1qke" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_LOD2.3" />
+          <attribute id="NbClosestVertices" type="int32" value="1338" />
+        </node>
+      </children>
+    </node>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="eNqN1WWwVAUYgOG79L3kpbu7Lh2X7i4VUQxMLFQMbEVQMMAAJewAA0QFFFBBQrAVUAQDFAQTxQI70HnOj/1m7twZ98czO2fO2fN9Z9+dzcg4/N8rxQIsyEIszCIsymLMZBaLswRLshRLswyzWZblWJ4VWJGVWJlVWJXVWJ01WJO1WJt1WJf1WJ8N2JCN2JhN2JTN2Jwt2JI5bMXWbMO2bMf27MCO7MTOzGUXdmU3dmcP9mQv9mYf9mU/9ucADuQgDuYQDuUwDucIjuQoHsEjeRRH82iO4TE8lmN5HI/nCTyR43gST+YpPJWn8XSO5xk8k2fxbJ7DCTyX5/H8PN/FRF7AC3kRL+YkXsJLQ7GXhW6zQquX84pQ7JWh27zFXsWrQ7fXhFYn89p8ip3CqbyO13Map/MG3sibQrE3h26TYmdwJm/hrbwtPKvbQ7GzODsUm7R6Ryg2N3R7Z2h1Tih2bug2KXZeaHU+7+Ldodt7Qqv3hmKTVu8Lxd4fun0gFPtg6PYhPswFXMhH+Cgf4+NcxMV8gkv4JJ/i01zKZVzOZ/gsV3AlV4VWnwvFPh++ixe4mmv4ItdyHddzA1/iRm7iy3yFr/I1vs43+Cbf4tvczC3cynf4LrfxPW7nDr7PD8IkyX0/5Edhtp3cxY/5CXdzDz/lXu7jZ/ycX4Rz9oWrtoWpvgw7Jtt9FXZMtvua+/kNv+UBfsfv+QN/5E88yEP8mb/wV/7G3/kH/+Rf/Jv/8DAzUv5DWYAFWYiFWSSVniS5b1FHiqXSs2V6n8XiLMGSLMXSLMNslmU5lg/nZIerUmGqCqn0jsl2FVPpHZPtKqXSzzOZYX94VvEpZeaZdm2oYk2oN3a7M08/lV1bhVVZjdVZgzVZi7XD+avD766OI3VZj/XZgA3ZiI3ZhE3ZjM3Zgi2Zw1ZszTZsy3Zszw7syE7szNx8po1bd2FXdmN39mBP9grn54T/x96O9GFf9vsfW/fngPCZydYDOYiDOYRD89l6GIdzBEdyVD7T/gvy1qke" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_LOD3.4" />
+          <attribute id="NbClosestVertices" type="int32" value="1338" />
+        </node>
+      </children>
+    </node>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="eNqN1WWwVAUYgOG79L3kpbu7Lh2X7i4VUQxMLFQMbEVQMMAAJewAA0QFFFBBQrAVUAQDFAQTxQI70HnOj/1m7twZ98czO2fO2fN9Z9+dzcg4/N8rxQIsyEIszCIsymLMZBaLswRLshRLswyzWZblWJ4VWJGVWJlVWJXVWJ01WJO1WJt1WJf1WJ8N2JCN2JhN2JTN2Jwt2JI5bMXWbMO2bMf27MCO7MTOzGUXdmU3dmcP9mQv9mYf9mU/9ucADuQgDuYQDuUwDucIjuQoHsEjeRRH82iO4TE8lmN5HI/nCTyR43gST+YpPJWn8XSO5xk8k2fxbJ7DCTyX5/H8PN/FRF7AC3kRL+YkXsJLQ7GXhW6zQquX84pQ7JWh27zFXsWrQ7fXhFYn89p8ip3CqbyO13Map/MG3sibQrE3h26TYmdwJm/hrbwtPKvbQ7GzODsUm7R6Ryg2N3R7Z2h1Tih2bug2KXZeaHU+7+Ldodt7Qqv3hmKTVu8Lxd4fun0gFPtg6PYhPswFXMhH+Cgf4+NcxMV8gkv4JJ/i01zKZVzOZ/gsV3AlV4VWnwvFPh++ixe4mmv4ItdyHddzA1/iRm7iy3yFr/I1vs43+Cbf4tvczC3cynf4LrfxPW7nDr7PD8IkyX0/5Edhtp3cxY/5CXdzDz/lXu7jZ/ycX4Rz9oWrtoWpvgw7Jtt9FXZMtvua+/kNv+UBfsfv+QN/5E88yEP8mb/wV/7G3/kH/+Rf/Jv/8DAzUv5DWYAFWYiFWSSVniS5b1FHiqXSs2V6n8XiLMGSLMXSLMNslmU5lg/nZIerUmGqCqn0jsl2FVPpHZPtKqXSzzOZYX94VvEpZeaZdm2oYk2oN3a7M08/lV1bhVVZjdVZgzVZi7XD+avD766OI3VZj/XZgA3ZiI3ZhE3ZjM3Zgi2Zw1ZszTZsy3Zszw7syE7szNx8po1bd2FXdmN39mBP9grn54T/x96O9GFf9vsfW/fngPCZydYDOYiDOYRD89l6GIdzBEdyVD7T/gvy1qke" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_TopAccessory.HUM_TopAcc_LOD4.5" />
+          <attribute id="NbClosestVertices" type="int32" value="1338" />
+        </node>
+      </children>
+    </node>
+  </children>
+</node>
 							</children>
 						</node>
 						<node id="ClothParams">
