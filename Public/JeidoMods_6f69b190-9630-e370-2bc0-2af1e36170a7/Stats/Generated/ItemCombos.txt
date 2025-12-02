@@ -106,3 +106,15 @@ data "DyeColorPresetResource" "3e5b4860-a6d1-ff42-5230-976ed20ec710"
 new ItemCombinationResult "JEI_OBJ_Dye_Asphodelos_01_1"
 data "ResultAmount 1" "1"
 
+new ItemCombination "JEI_OBJ_Dye_Roseblood_01"
+data "Type 1" "Object"
+data "Object 1" "JEI_OBJ_Dye_Roseblood_01"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "62a08599-15f3-1d51-fe75-25f6a4107dc0"
+
+new ItemCombinationResult "JEI_OBJ_Dye_Roseblood_01_1"
+data "ResultAmount 1" "1"
+

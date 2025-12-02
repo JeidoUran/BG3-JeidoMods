@@ -127,5 +127,19 @@
         <field name="DyeColorPresetResource" type="FixedStringTableFieldDefinition" value="3e5b4860-a6d1-ff42-5230-976ed20ec710" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="36ef4f06-d4e1-47fe-a426-bbd1afd60c09" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Roseblood_01" />
+        <field name="Type 1" type="EnumerationTableFieldDefinition" value="Object" enumeration_type_name="IngredientType" version="1" />
+        <field name="Object 1" type="StringTableFieldDefinition" value="JEI_OBJ_Dye_Roseblood_01" />
+        <field name="Transform 1" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="IngredientTransformType" version="1" />
+        <field name="Type 2" type="EnumerationTableFieldDefinition" value="Category" enumeration_type_name="IngredientType" version="1" />
+        <field name="Object 2" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Transform 2" type="EnumerationTableFieldDefinition" value="Dye" enumeration_type_name="IngredientTransformType" version="1" />
+        <field name="ResultAmount 1" type="IntegerTableFieldDefinition" value="1" />
+        <field name="DyeColorPresetResource" type="FixedStringTableFieldDefinition" value="62a08599-15f3-1d51-fe75-25f6a4107dc0" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

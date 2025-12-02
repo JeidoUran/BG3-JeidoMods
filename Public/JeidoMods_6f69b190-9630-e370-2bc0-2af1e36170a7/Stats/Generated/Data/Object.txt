@@ -77,3 +77,9 @@ using "_Container"
 data "RootTemplate" "08580472-0986-4eec-98a8-598fef089748"
 data "Rarity" "Legendary"
 
+new entry "JEI_OBJ_Dye_Roseblood_01"
+type "Object"
+using "_Dye_Rare"
+data "RootTemplate" "74245a0e-dd9c-434a-a7d6-90c7fb218354"
+data "Rarity" "Rare"
+
