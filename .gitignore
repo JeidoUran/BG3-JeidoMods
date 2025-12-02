@@ -4,21 +4,21 @@ SourceControlGenerator.json
 
 # Levels
 ######################
-Mods/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/Levels/*
-Mods/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/Globals/*
-Editor/Mods/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/Levels/*
+#Mods/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/Levels/*
+#Mods/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/Globals/*
+#Editor/Mods/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/Levels/*
 
 # Story files        #
 ######################
-*.div
-*.raw
+#*.div
+#*.raw
 story_orphanqueries_ignore.txt
 Mods/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/Story/Dialogs/Autosave/*
 Mods/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/Story/Dialogs/Recovered/*
 
 # Asset Folders      #
 ######################
-Public/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/Assets/*
+#Public/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/Assets/*
 #Public/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/GUI/*
 
 # Editor files       #
@@ -37,18 +37,18 @@ story.debugInfo
 
 # Assets             #
 ######################
-*.gr2
+#*.gr2
 *.dae
 *.swf
 *.bullet
-*.dds
-*.tga
-*.png
-*.ttf
+#*.dds
+#*.tga
+#*.png
+#*.ttf
 *.lsb
-*.lsf
-*.lsfx
-*.lsefx
+#*.lsf
+#*.lsfx
+#*.lsefx
 #*.lsx
 *.lsmg
 
@@ -66,8 +66,8 @@ personallog.txt
 *.dat
 *.data
 *.bik
-*.bnk
-*.bshd
+#*.bnk
+#*.bshd
 *.cur
 *.fnt
 *.iggy
