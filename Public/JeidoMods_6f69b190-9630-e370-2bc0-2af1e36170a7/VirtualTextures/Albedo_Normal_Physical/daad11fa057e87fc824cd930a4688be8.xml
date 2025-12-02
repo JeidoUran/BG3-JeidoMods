@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StackedTexture>
+  <Layers>
+    <Layer type="Albedo" source="($DATA)\Public\($MOD)\ScionsArmguard\VirtualTextures\JEI_ARM_Gloves_ScionsArmguards_BMA" />
+    <Layer type="Normal" source="($DATA)\Public\($MOD)\ScionsArmguard\VirtualTextures\JEI_ARM_Gloves_ScionsArmguards_NM" />
+    <Layer type="Physical" source="($DATA)\Public\($MOD)\ScionsArmguard\VirtualTextures\JEI_ARM_Gloves_ScionsArmguards_PM" />
+  </Layers>
+</StackedTexture>

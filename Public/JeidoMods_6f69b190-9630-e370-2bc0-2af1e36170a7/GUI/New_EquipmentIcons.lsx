@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_ARM_Camp_FiliGilet"/>
+                    <attribute id="U1" type="float" value="0.001953125"/>
+                    <attribute id="U2" type="float" value="0.24804688"/>
+                    <attribute id="V1" type="float" value="0.001953125"/>
+                    <attribute id="V2" type="float" value="0.24804688"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_BASE_WEAPON_Scimitar_EdenmornTwinfangs"/>
+                    <attribute id="U1" type="float" value="0.25195312"/>
+                    <attribute id="U2" type="float" value="0.49804688"/>
+                    <attribute id="V1" type="float" value="0.25195312"/>
+                    <attribute id="V2" type="float" value="0.49804688"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_IconGenerator_Body"/>
+                    <attribute id="U1" type="float" value="0.25195312"/>
+                    <attribute id="U2" type="float" value="0.49804688"/>
+                    <attribute id="V1" type="float" value="0.001953125"/>
+                    <attribute id="V2" type="float" value="0.24804688"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_IconGenerator_Head"/>
+                    <attribute id="U1" type="float" value="0.001953125"/>
+                    <attribute id="U2" type="float" value="0.24804688"/>
+                    <attribute id="V1" type="float" value="0.25195312"/>
+                    <attribute id="V2" type="float" value="0.49804688"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Glaive_EstinienSpear_A_0"/>
+                    <attribute id="U1" type="float" value="0.75195312"/>
+                    <attribute id="U2" type="float" value="0.99804688"/>
+                    <attribute id="V1" type="float" value="0.25195312"/>
+                    <attribute id="V2" type="float" value="0.49804688"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Spear_EstinienSpear_A_0"/>
+                    <attribute id="U1" type="float" value="0.50195312"/>
+                    <attribute id="U2" type="float" value="0.74804688"/>
+                    <attribute id="V1" type="float" value="0.25195312"/>
+                    <attribute id="V2" type="float" value="0.49804688"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Spear_EstinienSpear_A_1"/>
+                    <attribute id="U1" type="float" value="0.001953125"/>
+                    <attribute id="U2" type="float" value="0.24804688"/>
+                    <attribute id="V1" type="float" value="0.50195312"/>
+                    <attribute id="V2" type="float" value="0.74804688"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Spear_EstinienSpear_A_2"/>
+                    <attribute id="U1" type="float" value="0.25195312"/>
+                    <attribute id="U2" type="float" value="0.49804688"/>
+                    <attribute id="V1" type="float" value="0.50195312"/>
+                    <attribute id="V2" type="float" value="0.74804688"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="64"/>
+                    <attribute id="Width" type="int32" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/New_EquipmentIcons.dds"/>
+                    <attribute id="UUID" type="FixedString" value="5e8a34d5-6c52-c7a1-1f67-c2e88a3f3a1c"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="256"/>
+                    <attribute id="Width" type="int32" value="256"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

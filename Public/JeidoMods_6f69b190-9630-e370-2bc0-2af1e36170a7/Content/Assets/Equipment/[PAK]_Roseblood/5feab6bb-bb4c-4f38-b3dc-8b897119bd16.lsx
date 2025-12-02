@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="5feab6bb-bb4c-4f38-b3dc-8b897119bd16" />
+					<attribute id="Name" type="LSString" value="HUM_M_ARM_Roseblood_Body_Top" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/FFXIV_Gear/Assets/Roseblood/HUM_M_ARM_Roseblood_Body_Top.GR2" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/FFXIV_Gear/Assets/Roseblood/HUM_M_ARM_Roseblood_Body_Top.Dummy_Root.0" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="MaterialType" type="uint8" value="13" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="BoundsMin" type="fvec3" value="0 0 0" />
+					<attribute id="BoundsMax" type="fvec3" value="0 0 0" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<children>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Torso" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="upperarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="wrists" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="lowerarm" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Shoulders" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Sleeves" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Underwear_Bra" />
+						</node>
+						<node id="VertexColorMaskSlots">
+							<attribute id="Object" type="FixedString" value="Nipple Covers" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top.0" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="LOD" type="uint8" value="0" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh.1" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="LOD" type="uint8" value="0" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD1.2" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="LOD" type="uint8" value="1" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD2.3" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="LOD" type="uint8" value="2" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD3.4" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="LOD" type="uint8" value="3" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD4.5" />
+							<attribute id="MaterialID" type="FixedString" value="eecb67d1-7b3f-d289-69ce-b9aefaba8e1b" />
+							<attribute id="LOD" type="uint8" value="4" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD1.6" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="LOD" type="uint8" value="1" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD2.7" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="LOD" type="uint8" value="2" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD3.8" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="LOD" type="uint8" value="3" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD4.9" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="LOD" type="uint8" value="4" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="ClothProxyMapping">
+							<children>
+								<node id="Object" key="MapKey">
+									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh.1" />
+									<children>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="NbClosestVertices" type="int32" value="3327" />
+													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top.0" />
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+												</node>
+											</children>
+										</node>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="NbClosestVertices" type="int32" value="3327" />
+													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD1.2" />
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+												</node>
+											</children>
+										</node>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="NbClosestVertices" type="int32" value="3327" />
+													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD2.3" />
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+												</node>
+											</children>
+										</node>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="NbClosestVertices" type="int32" value="3327" />
+													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD3.4" />
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="eNrNmXmQXkUVxY875VIqpYWUpcaoBEUUFYl7EiDuqOUelsGFxAJcSpLJTPaIliYEhHKhSsVCJmYmA9HCsiKDSRzFaCZkMnEjCdECJpJAjAHNREVQn6f712+++/kcKv5nTb3b/frr16/73tvnnNdzQD/Xfk3TDFXVfter6jLdokFdplW2l7usqnX6jn7v67tKtevdcrqm6AT37vOzB3K5V3drn3vt1e2269znBq11G3VGOKIfab2vTfqB/36ojdqqWzWszfmNm31XVYO+6jnQvslPbCz9efZ5WqHn64N6u2b5+oBrZ/l+hed0ut6g1+URprlc6LsPu+3N+qze4utSfVxv02f0Y19XeG2X6nPue4VW2r5Jr9FbS0/6vFFf0uv18jzaa/VRj5VGn6Jp+Q14AL+9T9/TL3Rj7vkNfd3le/VOvVvvyC3v0uc9v7PG51xVK7yCc1w/W2meaYQZuSdjnqAX+E1n5JYTda5eWHry1Nm5/Rz9xePR51ydqL+1zZyVNtfIW5rj/0n367DtIe0s9T/7OpLLI/5LMcMm/x8pUWBWzIe5NWdFpIgR8YqRIkbEi0ilXOwreRXrZ6rLvc7MY0/3Xaqnlpn5Wdrv0qjuUG3vtG3l5/7x/GxlJhm13uVNJTPJRjKQ3KMPGZhy8JIyk3oOZ4zPhDrz6fV7e/Jb+4u/mFWvW/tKC3V60oIH8MyHNNt3s11O0QWa41Hn5JGfoeNdHp/rkzXJ/p2kyfYofsa3G/KvY9rl+O3y3U4NaMzlgDpsz8u/dric1baD5nulVVX75Cav9WbbqpqfV9eZn+rKqz7s38fymGmcAduN9ku9oxlngVuqaq7v52mxr6rqziMs8l09JqPdad/coSXus7T0THaq64tsu20X+FqYa8nS0q3pHmN6iX7L/6y6Xm/6lVV3qNPr6fBqO/0300/MbDw7NbcsKbaeTz2TU/UKl2kOp7blLdEhUsSI2E0UqVFd5yyLWUrLqoJ7qWTnsmc3Owtv8V/CYXY3WTqa/cY4V+kT+oqeqCfo8bra5Vd9f6E+rU/qImPCRcaCi9sw8Or8rgv1KZcXZ3wAJchD8hbLrtmte/zrQd3mcqdtwold+k3JLnw+lrON3CB/yIfrPMPWepOlBX5Z5XKl/ul5e0J5Vqzly7l+jP7lX47RY11+X1/TR1x7nB5T1gU+R2S+wFGYo0frEXpUWW98L6u71f4b1pC2+Q07tMXldo243O4cfKVi9Odpru/JYTgu5vm+glCJMRmTde3LvuKNg+Mxrdktvp3IRr6LnItnVrrlcv+tdDbAUOQA+fAq/USvLgx1mvPyZYWbGJk3/sxr+6lXNlWnlexd5N2zsDDXw/uB/E97Ftvta0H2S/IJ/sFX5Ak50+/6WoGxqAVsf2ihT8y0b+oat1+pZ+uLvtLbv6D36Dlm02vG+RRuPU7P0tN1XO7zTD3XfWDYp+kpSgg5yTsPtn2qnuSWY33/jxKXe/QH3Zvre5Xq+/RH24PFHtJ9tve5PFjYcKmW+6ml9sySUl/mVS8XdpPLxA4b3R6ZcUR7tEM8tcd2h36r32W7w+U2X8PFDudVDDtS2zzLyXpAMOmTcztqit3X5K9aleHhljZL9tu+v9H3KJN1eTT0ya/0S7cwDuP/2jv69rY9jm453xzxfu/yDTq/7HrUS0LR85SQf0NBWnAATEhIOyv/2pnZLWFcQirUwoGyZ1LEB4zIYwUxQA+QpMUjN5cdl9hkvmo2SRnYbdtVcrLLv3UqsUln4QUyfEbRgalEk5xidPiYHml8kGuzdZJQXC/VKf79ZD2oF+slesj1k/Qi90AdoZfoyVOME7mS2SbGnF/mk/imq8wqMU5H0UU1e6a14yU8ho7CSw/qZP3dOXus6w95RlX1gP7q/CCTY56guNBaICf4DxfAAk20j7wAI4D/UUOCMDARrARDRVaCudoZLVkYqon8WPIBdQcm1DjQN67TQFf2LBjbRJWIOfQhu8BY9hT7q/7K2GokHMot7L4t3o9DZVdG1RdxG2SmP7uY3Q13D+fV8pbtHm9ENVa0EGNeZhEQA3SdmvF1rvP4koIekVnAkPoLCCRvfR/Vq9iW0Tu9F/RmLcwBXAKReO8eXyNtaAYuRcyPcwP/mXmTDZk5c44zx8YvvogzEc125/FBm9uMti1dgU3aAjxJ6FJVLaVRa7yoN8a87w6XnRi1BxZ1we5AY6Auooog85t6A3WB6kBdoDTQGOBARBKwJeZzC/H6CjP2N5ixzli4IGVUVEoxG8k66vyKTphor9UKk6+S9MVxre1o204EpZnzmjzHNVrtXuiNqDzRG011EVVEVCOoDnIMZVIrkMVZV88r2VZ/ffMWYnH0X9/kLZgPI9A+kVZBX0VlhQ/xKjoEBYIaQYc0VQd6I+qT+KWPDkGBoFviKcG6wMWRbWHYJjvDwjXzJr5AkUY+Jd9gkIdX7LA2DA4HTcTFaAnUBYoi5i06qkbslkoBpSNWN9EABECDgQBRgzFnNNjOMu9671dVPKngjAIE4IwiIkA8awKpYGoUBUyNloj6AaaOeoO8auoKNAP6ISqHJjKgIlAUUeG0vrXnK2oD9APRiQoHLdHUDMwZhYB6jDoBLYGuiIoC5YCKoCdPMQ5sMpJHgy3gDnbcodxOpA7lmMV4EVkiwmnS/VlZ786IT/RhqHj6hPYmE+rs2u1sgX+HxnPm3ow5WwrLbzUaDZXzE76+yUbOUiY6ReGrnC/0iU5R4hfu0ZyipJ4DOSMPO6Lrc66mDF3mlcKni3MeVtVy+3JZOS2JGcupSzxj6SzvGviPk5NWPtfnNpy60Kc7nNjEcxhOYNrPNzh1mei8Je0I2ic+b+GkpeWf/+W8Jc0kfm8ezXkLcSSy8bylGdO+zGnJ9mZe688sd/d4S0+urc6tq/1cPHVckzkbRkyjrA78WFXpDnttYcyeXOvJLT15DrUdzed9vUosfFeu9bhk/GSrak3uGW1PGRUbR+v1eHA6bA6zxzPGeAIZOb0nrzr+mjR1Wlma+Vpj9Q3G++t9H89/QPJvmR+T0kgsyfqS6hgsYzbfPhi0N6dVxAJv4//2WBCFOiJ1LPASEfn/jAUewGOsHa82fYiH8TZ+xqu1P2tdN/hfvIeHeRdaAl2Bojj6/zjEGP0bTd8Tag==" />
+												</node>
+											</children>
+										</node>
+										<node id="MapValue">
+											<children>
+												<node id="Object">
+													<attribute id="NbClosestVertices" type="int32" value="3327" />
+													<attribute id="Name" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_LOD4.5" />
+													<attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Object" key="MapKey">
+									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD1.6" />
+								</node>
+								<node id="Object" key="MapKey">
+									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD2.7" />
+								</node>
+								<node id="Object" key="MapKey">
+									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD3.8" />
+								</node>
+								<node id="Object" key="MapKey">
+									<attribute id="MapKey" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh_LOD4.9" />
+								</node>
+							</children>
+						</node>
+						<node id="ClothParams">
+							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_Roseblood_Body_Top.HUM_Top_Cloth_Mesh.1" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="Damping" type="fvec3" value="0.02 0.02 0.02" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="100" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="AnimDriveSpringForce" type="float" value="25" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+						</node>
+						<node id="Base" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

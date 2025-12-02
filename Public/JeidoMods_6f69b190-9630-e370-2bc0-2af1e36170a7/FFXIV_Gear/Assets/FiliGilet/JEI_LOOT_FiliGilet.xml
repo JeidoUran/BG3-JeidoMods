@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings source="($SOURCE)\Public\FiliGilet\JEI_LOOT_FiliGilet.GR2">
+  <SceneSettings>
+    <UseMikkTSpace>true</UseMikkTSpace>
+    <OptimizeMesh>true</OptimizeMesh>
+    <HighPrecisionUV>false</HighPrecisionUV>
+    <MeshOrderPreset>Default</MeshOrderPreset>
+    <UseBlendShapes>false</UseBlendShapes>
+    <GenerateLODMaterials>true</GenerateLODMaterials>
+    <LOD>
+      <CanFade>false</CanFade>
+      <FadeDistance>3.40282347E+38</FadeDistance>
+      <HasCustomLOD>false</HasCustomLOD>
+      <Levels />
+    </LOD>
+    <VertexColors />
+    <UVMaps />
+  </SceneSettings>
+</Settings>

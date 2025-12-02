@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e078e210-b9ba-48e5-afe3-c5eb91ba8545">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0cbc1aa6-2385-4a20-b6ea-ddf4c8c0d609" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Jeido" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b5d7e225-06d7-4f1f-9d8f-f936373d796c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="91a5d873-4989-4139-a312-a75ff9672d2b" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Jeido_02" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b1b3b4d5-ab1a-4164-be04-b3d8425615e2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8bf1b848-e5b0-44c4-8704-795f7b1168fa" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Fili" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3f925951-5a71-476f-b95a-8f525df213d4" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7c7f5aa4-65d5-4b8d-8e16-9b0c8f8726a3" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Murgleis" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5408b01c-315b-4696-b620-67ca4b88f9c5" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="14c303c1-7529-4b1d-a876-f6a89861ab59" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Murgleis_Alt" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f70eb4d9-4be8-4381-bc7d-3a65c5005347" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7ea6b4de-17dd-4734-9bf5-b3adc5b5b7ba" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Rasha" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="cf24987e-48b4-4ced-8cc9-7f9c11ff3334" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5f09c4d4-e231-42a9-9cc2-276c3cbb1fbb" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Wind" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d9b7ee50-11d1-400a-831b-1f99eda5837e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="63f304d6-1e53-4d80-9129-0191b8b4ac0b" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_AdventurerBag" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="16a94034-a7a0-488c-9aab-ba2bdd0b3183" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Common" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="14d6f66d-3118-4c66-802a-fa5056fa1710" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_RapierChest" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ddf3661d-6a7a-4f4d-af3e-75fd0bb30e87" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="62310a83-a722-43a2-b966-9ed412ca2af4" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_ScimitarChest" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d0b793f1-b7c8-42fe-8687-a8f4321ad8b0" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a6be797d-86e1-485a-94f1-c0cc204863d6" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_SpearsChest" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="50ecb309-2ea9-49b6-974b-e5a6d44b30c9" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b739e0f3-217c-49a5-aebe-0023bc5968fd" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Voidcast" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a3678817-5249-4c9a-9047-7d268beb58c3" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fb17130e-f5a3-4fab-bb6b-93cec9d6f6fb" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Asphodelos_01" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="293dc85a-b77e-4f70-874d-51837ae5de18" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bd05bf60-693f-4b56-a614-6c57f8161415" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_GreatswordChest" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="18cec264-22ab-44d0-a46f-f36fe4fe9e3a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="08580472-0986-4eec-98a8-598fef089748" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

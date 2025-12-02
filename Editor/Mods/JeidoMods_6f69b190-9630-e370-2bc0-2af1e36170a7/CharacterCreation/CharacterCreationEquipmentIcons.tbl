@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="bbb4bfcc-9437-489b-a489-b88bd973e0cb">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1381964e-82c6-4448-b42d-ba8cffd3c051" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="01ba6015-27ba-40e8-9405-5bf4c7c411d0" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="03639160-6c9e-4054-8512-50772fa828b8" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Body" enumeration_type_name="EquipmentIconCameraNames" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="12c39cf8-9df7-48a3-8d75-caf59711bf16" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="75a43caa-175d-446f-a879-77bb3697070c" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="96aba0c1-81c3-4185-9b07-3b7d29881b0e" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Body" enumeration_type_name="EquipmentIconCameraNames" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b0cb7c82-dd9f-48fe-b56a-af056605633f" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="01ba6015-27ba-40e8-9405-5bf4c7c411d0" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="25f3d117-a8c7-4825-bdde-e6ee5d11a17c" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Body" enumeration_type_name="EquipmentIconCameraNames" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a412c6ff-bc1d-4541-b32a-37cd472b0dd6" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="75a43caa-175d-446f-a879-77bb3697070c" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="5476deb7-2f4e-41fc-a2d2-d046acbf07a7" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Footwear" enumeration_type_name="EquipmentIconCameraNames" version="1" />
+        <field name="AnimationUUID" type="GuidTableFieldDefinition" value="beeabe70-56cd-4cb4-aa83-4f032dcfe146" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4fd7ef58-e96d-47c5-ae2b-55c0a0bf7b37" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="75a43caa-175d-446f-a879-77bb3697070c" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="a756e52b-3ade-4112-a285-ac83ef9c88c0" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Gloves" enumeration_type_name="EquipmentIconCameraNames" version="1" />
+        <field name="AnimationUUID" type="GuidTableFieldDefinition" value="beeabe70-56cd-4cb4-aa83-4f032dcfe146" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fc75b357-d57d-4749-9303-22b41042c337" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="6bc80bc5-8540-40a4-a0ee-f8842c778b75" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="75a43caa-175d-446f-a879-77bb3697070c" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Headwear" enumeration_type_name="EquipmentIconCameraNames" version="1" />
+        <field name="AnimationUUID" type="GuidTableFieldDefinition" value="beeabe70-56cd-4cb4-aa83-4f032dcfe146" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_272" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b3cef7fc-a7f9-4903-a4cb-2070d87ddbbd" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="d2433c3c-7d1b-493c-84a2-f8427a490128" />
+        <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Weapon_Rapier" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="32c1bdac-6209-4975-97c6-fc1f37b39a3b" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="b1b1e968-00e0-472d-bd73-553c65adf51d" />
+        <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Weapon_Scimitar" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3e513360-ccdc-4827-a1db-a8b890160a55" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="10ed3363-b627-4b1f-bdcb-b87a0b930c6f" />
+        <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Weapon_Spear" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cf741a2d-5703-40c8-af91-90151e905946" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="ac354cb0-95ec-4203-a9dd-cee271179e99" />
+        <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Weapon_Glaive" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ca169de9-b8bd-4f39-9fa2-e6521c8a7dd7" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="0e9ca357-df88-4700-befa-7c8a4ee79479" />
+        <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Weapon_Pike" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_10" />
+        <field name="UUID" type="IdTableFieldDefinition" value="256a0283-a241-4d9e-a719-b0f0c59425d0" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="d855c656-97e1-417f-aed0-c1cfe23aee27" />
+        <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Weapon_Javelin" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_11" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f6ce6c47-b30a-4149-a6d0-acc0c080a4ba" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="d84f23ca-eaef-4674-a722-92279dfefb0f" />
+        <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Weapon_Greatsword" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

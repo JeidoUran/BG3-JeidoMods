@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="239de60a-29b5-4010-bf7d-f6169d4ddd8a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e170e047-c598-4b47-9bb4-f01ac0592999" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Cloth_FiliGilet" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77026e76-47c8-4ca7-b066-eff688e825d1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7dadac95-b81c-462e-9d7d-5218c4ed0701" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cf6485b3-a49e-457e-bd7d-9928cffcd601" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Vanity_Body_FiliGilet" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2680cacc-da97-4c01-86e3-48c13be05eef" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="03639160-6c9e-4054-8512-50772fa828b8" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF0000CD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="296e9ae9-5aa5-4703-96aa-dc86b9368e12" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Gloves_ScionsArmguards" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f085953f-863d-4df3-8217-3e1bc4ee66aa" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Gloves_ScionsArmguards_RightArm_NoPauldron" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="81438a2b-88e9-4892-a22c-a0d2824a7c20" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="18bfe674-1c9c-4e1f-9b2a-174d063e2f5c" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Gloves_ScionsArmguards_LeftArm_NoPauldron" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2ffad315-5297-476d-a2fa-c6cefbd3a91f" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="73b47e95-afb0-47b0-8376-6355e4df7993" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Gloves_ScionsArmguards_RightArm_RightPauldron" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="75fc3ea5-e5fc-428a-9141-d6c31482e347" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="90798afc-3843-4d51-8d2a-d69dbd53723c" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Gloves_ScionsArmguards_LeftArm_LeftPauldron" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="af65b4fb-f6c6-4db0-bba2-daf64318ab25" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e3259637-5d2c-4065-b64c-7828c682b418" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Gloves_ScionsArmguards_BothArms_NoPauldron" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2cd2b61c-6e7b-46a9-9f96-78c75d29f647" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7d771e30-7d3c-4813-8c72-c70ba3bcefde" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Gloves_ScionsArmguards_BothArms_RightPauldron" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="69a2549a-b9dd-4deb-977c-00d12cf0f644" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="96a72dd9-d62e-4cba-abd0-9d011a5d4845" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Gloves_ScionsArmguards_BothArms_LeftPauldron" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="27faf700-607c-4256-a0a2-f63794b8569d" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c379ffa9-79c1-482a-a1f1-b1f2c49b961c" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Gloves_ScionsArmguards_BothArms_BothPauldrons" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="03a262fa-73b9-45d1-834b-d06eb2043c7c" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e9c9b252-6b6a-48b8-9f80-348865ef41c0" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_EdenmornFending_Body" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d5de3f89-e797-485a-bf98-67d7075cd9fa" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b1336fb5-cf20-41d7-b646-b139bce40ae0" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_EdenmornFending_BodySleeveless" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="70a87092-f159-49e5-80f4-6b4c99e58db8" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f5be1145-519a-4722-9385-35703a7da4c0" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_FriendshipCirclet" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="92049dee-1531-4b2d-819e-3d63b94ffd08" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4fb3e2fb-7923-433b-9c5e-d93e6f9e771d" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Uncommon" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c0867288-0b60-4a2b-83cd-920c25d9183b" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_BonewiccaCasting_Body" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77026e76-47c8-4ca7-b066-eff688e825d1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5adca4c9-559f-43e8-8c70-c0f9a15e06f0" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF8A2BE2" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="71b69736-c015-490a-869f-f36a92212339" />
+        <field name="Name" type="NameTableFieldDefinition" value="_NeoKingdomMaiming" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b02bf69c-47ed-426e-94b0-be063ee5703a" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Headwear_NeoKingdomMaiming" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="92049dee-1531-4b2d-819e-3d63b94ffd08" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d7f67939-3b88-47d7-bf06-29cdccc6f12c" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b02b69fb-6010-4860-9cb8-c55fd25c9461" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_NeoKingdomMaiming_Body_ThinPants" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="82983e07-8112-4cb0-b6e4-c6eb631791e2" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="43340a20-e745-4cba-a933-c22bcecde047" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_NeoKingdomMaiming_Body_Sleeveless_ThinPants" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="312c154b-8d9f-4ae9-adab-11949f5a821b" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4c1cfd8f-80c0-4a26-9e68-b05fe7c3e5ae" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_NeoKingdomMaiming_Body_ThickPants" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c61aac79-5720-4809-8e8d-d1a1fbabf953" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="38906726-d0f5-4e63-ae6e-55d7e525ce44" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_NeoKingdomMaiming_Body_Sleeveless_ThickPants" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="eafbf550-ddc2-4d19-aea2-0d7de2c938e0" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="547b09e7-0be9-42c6-8780-31905a736f43" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Gloves_NeoKingdomMaiming" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e00a0df7-f148-489c-b84e-9f6362f7226f" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="922d2b44-ca8f-479e-8fda-6ac844c10b2f" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Boots_NeoKingdomMaiming" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="07c3ef37-899d-4ade-9481-7939da51e579" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="01b8c9e9-6a3b-40b0-90a4-025d881510cf" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF8B0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ba708348-2ac0-4f2d-bbb4-ef3362b03e81" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Aoidos" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="64bd7461-43ae-42cf-bddc-cfaeb07e7b95" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Headwear_Aoidos" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="92049dee-1531-4b2d-819e-3d63b94ffd08" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d45b6274-60e8-452f-b2dd-e011c6b8a99f" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="556fb0c5-4c1a-4027-874d-c20b8ab2099d" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Aoidos_Body" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="dcadf948-8aae-47e5-8f79-4b325f82766b" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d5617e1f-18ee-4493-a45d-2301b2819657" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Gloves_Aoidos" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="989e609b-ebdb-4352-bf74-994df2ccdb4e" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4b742ed5-3b61-4740-922d-42dffc7842f2" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Boots_Aoidos" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="07c3ef37-899d-4ade-9481-7939da51e579" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d466be7e-b7b6-4520-91c5-dbf1e2ebd398" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFBDB76B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c125f77b-8f24-4dec-8db4-752b8665a9de" />
+        <field name="Name" type="NameTableFieldDefinition" value="_TroianScouting" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4a48e94f-5c97-4145-bae8-27393b4e6b36" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_TroianScouting_Body" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="35d26fb4-1965-4c85-b8ec-9c44f99089ee" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f37ca465-a8ee-45f9-8112-32aa61f0e420" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Boots_TroianScouting" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="07c3ef37-899d-4ade-9481-7939da51e579" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7a539d31-c1b2-4e1c-b81d-f6a9c548c88b" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF1E90FF" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="03f09d92-3e09-4b45-a868-0d073112f7a8" />
+        <field name="Name" type="NameTableFieldDefinition" value="_AsphodelosStriking" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bcd3c863-793d-405c-9ede-5e50cfee01bb" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_AsphodelosStriking_Body" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f563ef89-223b-4aa0-880f-b9382c1b8215" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9f1031e0-58c0-4856-b2c3-09a4509dd475" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Gloves_AsphodelosStriking" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8c87063a-4eb6-4a24-9a62-63a1ccf33ed3" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6234d554-19d8-414d-a05a-c3e53d291c5b" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Boots_AsphodelosStriking" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="07c3ef37-899d-4ade-9481-7939da51e579" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5476deb7-2f4e-41fc-a2d2-d046acbf07a7" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

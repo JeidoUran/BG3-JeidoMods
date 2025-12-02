@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StackedTexture>
+  <Layers>
+    <Layer type="Albedo" source="($DATA)\Public\($MOD)\NeoKingdomMaiming\VirtualTextures\JEI_HUM_F_ARM_NeoKingdomMaiming_Body_Top_BMA" />
+    <Layer type="Normal" source="($DATA)\Public\($MOD)\NeoKingdomMaiming\VirtualTextures\JEI_HUM_F_ARM_NeoKingdomMaiming_Body_Top_NM_03" />
+    <Layer type="Physical" source="($DATA)\Public\($MOD)\NeoKingdomMaiming\VirtualTextures\JEI_HUM_F_ARM_NeoKingdomMaiming_Body_Top_PM" />
+  </Layers>
+</StackedTexture>

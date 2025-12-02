@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="6f69b190-9630-e370-2bc0-2af1e36170a7"/>
+            <attribute id="Name" type="LSString" value="JeidoMods"/>
+            <attribute id="UUID" type="LSString" value="f8b99cf6-30b0-fd20-abcb-78c540b1b504"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

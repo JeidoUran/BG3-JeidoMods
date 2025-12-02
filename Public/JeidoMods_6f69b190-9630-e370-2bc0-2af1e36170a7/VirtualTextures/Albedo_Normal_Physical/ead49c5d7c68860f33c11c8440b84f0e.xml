@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StackedTexture>
+  <Layers>
+    <Layer type="Albedo" source="($DATA)\Public\($MOD)\Scimitars\EdenmornTwinfangs\VirtualTextures\JEI_WPN_Scimitar_EdenmornTwinfangs_Ult_BMA" />
+    <Layer type="Normal" source="($DATA)\Public\($MOD)\Scimitars\EdenmornTwinfangs\VirtualTextures\JEI_WPN_Scimitar_EdenmornTwinfangs_Ult_NM" />
+    <Layer type="Physical" source="($DATA)\Public\($MOD)\Scimitars\EdenmornTwinfangs\VirtualTextures\JEI_WPN_Scimitar_EdenmornTwinfangs_Ult_PM" />
+  </Layers>
+</StackedTexture>

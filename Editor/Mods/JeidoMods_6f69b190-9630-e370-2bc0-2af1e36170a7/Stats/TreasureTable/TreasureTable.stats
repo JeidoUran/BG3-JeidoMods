@@ -1,0 +1,961 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e4012e18-6a6b-4f40-aefa-c83b078c136c">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c1782777-9e88-4a81-bc64-3f8fd1790fcb" />
+        <field name="Name" type="NameTableFieldDefinition" value="TUT_Chest_Potions" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_AdventurerBag" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c1782777-9e88-4a81-bc64-3f8fd1790fcb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="831a4e8a-a253-4905-87ec-accfbbf49452" />
+        <field name="Name" type="NameTableFieldDefinition" value="TUT_Chest_Potions_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_RapierChest" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c1782777-9e88-4a81-bc64-3f8fd1790fcb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="84ed2721-9bb6-45cf-8eff-5a683cf43953" />
+        <field name="Name" type="NameTableFieldDefinition" value="c1782777-9e88-4a81-bc64-3f8fd1790fcb_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_ScimitarChest" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c1782777-9e88-4a81-bc64-3f8fd1790fcb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="82d1d5d9-945b-41e7-8475-97c4e154e5c4" />
+        <field name="Name" type="NameTableFieldDefinition" value="c1782777-9e88-4a81-bc64-3f8fd1790fcb_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_SpearsChest" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c1782777-9e88-4a81-bc64-3f8fd1790fcb" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5fa3ad11-8816-4956-8cd8-74a9a0e21dd4" />
+        <field name="Name" type="NameTableFieldDefinition" value="c1782777-9e88-4a81-bc64-3f8fd1790fcb_substat_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_GreatswordChest" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_AdventurerBag_TT" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_Murgleis_Base" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4d2995a2-1af5-4c8c-aa63-a6a854813108" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Cloth_FiliGilet" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="205534f2-6135-4801-97be-71dfe8714c0f" />
+        <field name="Name" type="NameTableFieldDefinition" value="OBJ_AdventurerBag_TT_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Vanity_Body_FiliGilet" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b45b67f9-5357-42d2-9bd1-3a147ca35503" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_7" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Gloves_ScionsArmguards_RightArm_NoPauldron" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a8675c15-78c1-4cb2-adb8-23d3f03ecf93" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_8" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Gloves_ScionsArmguards_LeftArm_NoPauldron" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c2f2f457-8d8b-4890-bf4e-5b89f6557920" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_9" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Gloves_ScionsArmguards_RightArm_RightPauldron" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d09b2586-a166-4442-8828-e9939adfc2c4" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_10" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Gloves_ScionsArmguards_LeftArm_LeftPauldron" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="70007513-b7df-41f8-848b-4eeefbfeda09" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_11" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Gloves_ScionsArmguards_BothArms_NoPauldron" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f35c2089-703c-4501-9e1c-a5f014181d4a" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_12" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Gloves_ScionsArmguards_BothArms_RightPauldron" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7c6d4e6c-142c-43a1-b557-f3ec7a703e22" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_13" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Gloves_ScionsArmguards_BothArms_LeftPauldron" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="36ace0d6-0fa2-4d77-8c3b-071ee927e328" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_14" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Gloves_ScionsArmguards_BothArms_BothPauldrons" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cb4a6863-5c4a-4428-91f7-4849667ef13a" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_15" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_EdenmornFending_Body" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fcd5d370-8138-4a65-83b6-bbbfcc52be2a" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_16" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_EdenmornFending_BodySleeveless" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="35121628-38b4-49d2-acd3-31b1cea9482c" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_17" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_FriendshipCirclet" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="888acc52-9e4b-4fca-b0eb-a703fae95705" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_18" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_BonewiccaCasting_Body" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="313eaa2e-b917-4c8f-aaa0-60f0b208f455" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_24" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Headwear_NeoKingdomMaiming" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b715f57c-0842-4bf8-9c79-35829b60ce37" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_AdventurerBag_TT_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_NeoKingdomMaiming_Body_ThinPants" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="719866c2-ef24-4898-8b5a-5e90cfa421ff" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_21" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_NeoKingdomMaiming_Body_Sleeveless_ThinPants" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="073128c0-9992-4244-b3fe-f249cafea92b" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_22" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_NeoKingdomMaiming_Body_ThickPants" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e342b966-ddf3-4819-a26d-3f6eec1d66ef" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_23" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_NeoKingdomMaiming_Body_Sleeveless_ThickPants" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a4c13655-7158-40d5-94ae-22d3d1694778" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_19" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Gloves_NeoKingdomMaiming" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5b225e8d-0718-4214-bca0-e287969fa30b" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_20" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Boots_NeoKingdomMaiming" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5d649a52-7979-4fd2-870b-7b48e57c5bc5" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_28" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Headwear_Aoidos" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="882707be-2b7c-4bdc-9d64-41d5853cf626" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_25" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Aoidos_Body" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ada19e40-0365-42a2-a616-a5fc7bf60b42" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_26" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Gloves_Aoidos" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f4d0117f-e946-4da0-8690-4991093a4c9d" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_27" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Boots_Aoidos" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a879baa6-a4c2-477b-8607-cc856fd84a03" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_AdventurerBag_TT_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_TroianScouting_Body" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cdb640e2-a8ef-41dc-aa60-d2c768d54b22" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_AdventurerBag_TT_substat_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Boots_TroianScouting" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="74995374-11db-49bc-b6f6-1ff4b8691602" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_29" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_AsphodelosStriking_Body" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="adb53746-a4f3-4f6b-a3e5-aaee0261b39c" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_AdventurerBag_TT_substat_3" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Gloves_AsphodelosStriking" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="78f135e1-87dd-465c-9818-0d4c0a3248b9" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_AdventurerBag_TT_substat_4" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_ARM_Boots_AsphodelosStriking" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dceee7e7-94fd-4db7-8253-f77babe55754" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_Dye_Jeido" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="61e4517c-27c0-40f2-a777-35c74ec4f8a7" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_AdventurerBag_TT_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_Dye_Jeido_02" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5641cb62-ea3d-4a6e-af27-b0d8d6e97481" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_Dye_Wind" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c552c9a0-f2a4-435f-ace4-2d771d92bcf4" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_3" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_Dye_Rasha" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a36d5475-d62f-4127-8c5d-fa9b01d2d901" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_4" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_Dye_Fili" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a0a3590c-ac40-4370-9e90-4c09fab882de" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_5" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_Dye_Murgleis" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2e662ba2-bfeb-4cc9-85d8-a9d1a0c13826" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_6" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_Dye_Murgleis_Alt" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f1422d38-3d83-46fa-863e-a8b400161b57" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_30" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_Dye_Asphodelos_01" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="83a79ef2-6cd9-41fe-8947-937569c85e4b" />
+        <field name="Name" type="NameTableFieldDefinition" value="d61f165f-96d6-4aa4-abb0-be01f4c332b5_substat_31" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_OBJ_Dye_Voidcast" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_CONT_Chest_Rapiers_TT" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_Murgleis_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9e7fe306-991c-492d-9ae2-fbd9f1f12f37" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_CONT_Chest_Murgleis_TT_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_Murgleis_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6578e49a-c654-4854-b8fb-3726f2d10fa0" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_Murgleis_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1a2f7828-c5a3-4b00-8d94-384c81c7d92b" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_Murgleis_Harpers" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4751b847-fbe9-4c9c-8e4e-b18b0f87fd96" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_Murgleis_Radiant" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6101f401-8ced-4964-9e13-727f7817cfbf" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_3" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_Murgleis_Infernal" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0e7b8c6c-12fd-4971-94b2-1d30d218a9fd" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_4" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_MAG_TheDueller_Rapier_Murgleis" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9adc11c1-ceff-4c2c-a92d-833786ec4aff" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_5" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_Murgleis_Pact" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1491d644-31ea-404e-b3a7-ccd98955e980" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_26" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_UND_Nere_Sword_Murgleis" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ab9de582-ff11-465e-a9c8-35caf2327fbd" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_6" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_AbyssosDegen_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2948fbb4-27a4-4b6d-af45-bcdd8fbd05de" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_7" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_AbyssosDegen_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c5ce6efe-0b53-4ac6-9b58-e7726ae1dd51" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_8" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_AbyssosDegen_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="66723eeb-e8cd-4ab3-87ff-1ccb57ffec27" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_CONT_Chest_Rapiers_TT_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_AbyssosDegen_A_0_VFX" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="59de44f2-4049-4490-93bc-e8efb3c41455" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_9" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_AbyssosDegen_A_1_VFX" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="18a0bbd4-549f-4f37-bfd2-e07fa7afbf28" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_10" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_AbyssosDegen_A_2_VFX" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4bbf192d-19a9-4c2b-ad34-9955d1d17b97" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_11" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_HellhoundTuck_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e3bff797-05b3-431f-8e3d-d5b6abf7a56d" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_12" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_HellhoundTuck_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a3728c4b-f73d-4414-a78f-674a972d93af" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_13" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_HellhoundTuck_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ba018bd0-a415-4f29-af5c-842414b2d011" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_14" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_LawsOrderRapier_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0d3669d0-4715-4c1c-a299-a248208bf263" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_15" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_LawsOrderRapier_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1c06c1dc-1537-4fe3-8bba-91d0094f904c" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_16" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_LawsOrderRapier_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0c686606-dde7-468a-ba38-b94eb535dbc6" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_17" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_QuetzalliRapier_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6cbc00f9-48ad-45b3-a698-158ec60e7fbd" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_18" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_QuetzalliRapier_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="52c2be5b-719f-4a82-8725-08af3b2403b0" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_19" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_QuetzalliRapier_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="895f5ab6-f04d-46e3-b453-dd63c85d228e" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_20" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_TropaiosRapier_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="96517565-062f-41f5-ab41-ffebeeaaccf6" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_21" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_TropaiosRapier_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="25f11bfc-7abb-4c90-94ad-cddf928235e1" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_22" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_TropaiosRapier_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fa73db7b-b186-463f-9729-242269b6220c" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_23" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_EdenchoirRapier_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e7a91d2c-857a-4ada-b65f-d3acf3b3a27f" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_24" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_EdenchoirRapier_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3994c2ff-beca-4b96-86b3-3957d7e50af3" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_25" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_EdenchoirRapier_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="053b1196-6664-45f1-bde0-95a7c343ee0e" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_27" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_VoidcastRapier_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_CONT_Chest_Scimitars_TT" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Scimitar_EdenmornTwinfangs_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />
+        <field name="UUID" type="IdTableFieldDefinition" value="91407987-83de-4554-a7da-38daf8993d0a" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_CONT_Chest_Scimitars_TT_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Scimitar_EdenmornTwinfangs_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e9740998-b11e-4f06-a516-8e3157a4305d" />
+        <field name="Name" type="NameTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Scimitar_EdenmornTwinfangs_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />
+        <field name="UUID" type="IdTableFieldDefinition" value="051e1366-43f2-4845-b2bb-4208e260843f" />
+        <field name="Name" type="NameTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_MAG_Mobility_MomentumOnAttack_Scimitar_EdenmornTwinfangs" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1eef6c4d-d178-4340-b0c4-b2d3a54e9ca9" />
+        <field name="Name" type="NameTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef_substat_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Scimitar_EdenmornTwinfangs_Ult_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1c446396-75a4-47f9-9331-5f877f3d5928" />
+        <field name="Name" type="NameTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef_substat_3" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Scimitar_EdenmornTwinfangs_Ult_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5ee971c2-5253-4736-8431-b7ee14f95b64" />
+        <field name="Name" type="NameTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef_substat_4" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Scimitar_EdenmornTwinfangs_Ult_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />
+        <field name="UUID" type="IdTableFieldDefinition" value="418f70ed-0b62-4919-99a2-aa489bbc0511" />
+        <field name="Name" type="NameTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef_substat_5" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_MAG_Mobility_MomentumOnAttack_Scimitar_EdenmornTwinfangs_Ult" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5341b131-9f2d-4008-8e83-19da698227f9" />
+        <field name="Name" type="NameTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef_substat_6" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Scimitar_TropaiosSaberfangs_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />
+        <field name="UUID" type="IdTableFieldDefinition" value="48b19486-61e0-4881-bf73-e76e0b6c50f7" />
+        <field name="Name" type="NameTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef_substat_7" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Scimitar_TropaiosSaberfangs_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />
+        <field name="UUID" type="IdTableFieldDefinition" value="59ae6f9b-82f7-4c12-bf61-d041c87d39dc" />
+        <field name="Name" type="NameTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef_substat_8" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Scimitar_TropaiosSaberfangs_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />
+        <field name="UUID" type="IdTableFieldDefinition" value="16ee3894-17ab-43b3-b615-313bad04126b" />
+        <field name="Name" type="NameTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef_substat_9" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_MAG_Mobility_MomentumOnAttack_Scimitar_TropaiosSaberfangs" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e12d9037-c105-4cde-a794-16dd6622913c" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_CONT_Chest_Spears_TT" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Spear_EstinienSpear_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e12d9037-c105-4cde-a794-16dd6622913c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b1fb63e0-1467-4886-911d-7855bbdd0185" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_CONT_Chest_Spears_TT_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Spear_EstinienSpear_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e12d9037-c105-4cde-a794-16dd6622913c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b9039f71-74f1-4790-b2d3-415a88f5091f" />
+        <field name="Name" type="NameTableFieldDefinition" value="e12d9037-c105-4cde-a794-16dd6622913c_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Spear_EstinienSpear_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e12d9037-c105-4cde-a794-16dd6622913c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f9b96ada-f31c-40b7-a963-d8840592a30d" />
+        <field name="Name" type="NameTableFieldDefinition" value="e12d9037-c105-4cde-a794-16dd6622913c_substat_4" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_FOR_TrueSoul_Spear_EstinienSpear" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e12d9037-c105-4cde-a794-16dd6622913c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="da319a80-2048-40ee-b57b-0bbc32e943a7" />
+        <field name="Name" type="NameTableFieldDefinition" value="e12d9037-c105-4cde-a794-16dd6622913c_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Glaive_EstinienSpear_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e12d9037-c105-4cde-a794-16dd6622913c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4119f028-2913-4ca6-8f00-6ba3a51252df" />
+        <field name="Name" type="NameTableFieldDefinition" value="e12d9037-c105-4cde-a794-16dd6622913c_substat_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Glaive_EstinienSpear_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e12d9037-c105-4cde-a794-16dd6622913c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="11f02567-5c6a-43d2-9234-2d53b8eaa1ec" />
+        <field name="Name" type="NameTableFieldDefinition" value="e12d9037-c105-4cde-a794-16dd6622913c_substat_3" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Glaive_EstinienSpear_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="97b477e6-5606-4963-aa5c-ac67e7ea1e0b" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_CONT_Chest_Greatsword_TT" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Greatsword_Deathbringer" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

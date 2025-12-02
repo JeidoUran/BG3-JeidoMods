@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e2a8d59b-0e34-4a7c-bf5f-db7a2bb34cde">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b84159e2-db31-45b8-b161-d3278691ae43" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_MAG_RADIANT_RADIANCE_WEAPON_MURGLEIS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f71c5e44-71b8-46c9-8123-f804a000e7d8" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="69ff9c00-788d-4e8a-b68d-f468d8ced870" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7bcada54g192bg0accgc848gc0f7e48e8535" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hadb85086g899fg0125gf2e3g4ae4cb666e45" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="02724a03-9f66-458e-8528-379fbab4547d" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_MAG_NECROTIC_NECROTIC_WEAPON_MURGLEIS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8bd8b863-fd84-4e46-8ef4-76a385d65a61" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="ab1640e0-2828-4ea7-a3d9-fc17d140af2b" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

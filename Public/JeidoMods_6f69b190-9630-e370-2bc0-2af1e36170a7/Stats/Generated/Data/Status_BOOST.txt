@@ -1,0 +1,14 @@
+new entry "JEI_MAG_RADIANT_RADIANCE_WEAPON_MURGLEIS"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAG_RADIANT_RADIANCE_WEAPON"
+data "DisplayName" "h7bcada54g192bg0accgc848gc0f7e48e8535;1"
+data "Description" "hadb85086g899fg0125gf2e3g4ae4cb666e45;1"
+data "StatusEffect" "69ff9c00-788d-4e8a-b68d-f468d8ced870"
+
+new entry "JEI_MAG_NECROTIC_NECROTIC_WEAPON_MURGLEIS"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAG_NECROTIC_NECROTIC_WEAPON"
+data "StatusEffect" "ab1640e0-2828-4ea7-a3d9-fc17d140af2b"
+

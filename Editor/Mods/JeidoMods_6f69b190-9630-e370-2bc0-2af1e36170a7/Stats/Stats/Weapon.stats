@@ -1,0 +1,665 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a1fa1d2f-c335-4902-898c-4228c3c07d52">
+  <stat_objects>
+    <stat_object color="#FF0000FF" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6870a5db-5c84-4e84-804a-51fe7b8cc5ce" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Rapiers" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFA52A2A" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8914190e-5b09-4f0d-bb40-90fdbdaca44f" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Murgleis" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f5869747-669a-4589-8327-13aa5fc98627" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_Murgleis_Base" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c10910e4-6e93-4d3e-8bd6-37044d0ce85a" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1aef789b-3bf3-42a4-9211-521c8d3cc12c" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_Murgleis_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1c702a9d-06af-4d77-957f-a4be9125fd80" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ed949409-2bb0-490a-b526-65e1deef5f43" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_Murgleis_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="42041cd4-55ab-4ba2-a80c-0ffe826e1d16" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="02eff27b-07ad-42ad-8427-71fa6fa0ebde" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_Murgleis_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1e54721f-f8fa-4a84-b832-e672a0042347" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1c08510c-cbdb-4c20-8fbb-07758be632a2" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="71e64cd2-c068-47ec-9b35-b6067d1972c2" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_Murgleis_Harpers" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="855c0d9c-1eac-4e66-b425-e08b65c9d5ed" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="63b67723-78b0-45a4-a5bd-abfc270b65fd" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cdbc7be0-ddee-4568-a44b-f633e6e39a70" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_Murgleis_Radiant" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ca3480ba-6191-4ce3-a091-50d4f4cd7705" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0c633be7-e05f-4178-9cab-17f19accb320" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e36183f9-ec9e-42a8-935d-2cac7d2cbda0" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_Murgleis_Infernal" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="427940b9-362a-4ff6-92b3-822fb20b1beb" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a428ca41-37ac-4251-9784-92543267a409" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7eb09a0e-8a64-4157-ad64-50c37f65ca9a" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_MAG_TheDueller_Rapier_Murgleis" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2eec277a-a322-4947-b53e-1d4e607bc367" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="44086390-a2c6-4486-8f5c-ff7b18d606c1" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a242b395-28ab-4414-a32a-0e4116f0185e" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_Murgleis_Pact" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5de878a7-c82a-4f2c-8b6a-20149dafe40a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0c63ff65-1d8b-432b-89f8-e8b3eec0eade" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8e85c906-eeb1-480b-bc76-816c347d4e9a" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_UND_Nere_Sword_Murgleis" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="35a5c463-1b12-4750-bc6d-6a9c08fed322" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1c42233b-83f0-4125-9d05-468fd0463789" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFA0522D" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bddbc803-c2fb-4307-a8fd-60437cd4813e" />
+        <field name="Name" type="NameTableFieldDefinition" value="_AbyssosDegen" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3e70ab57-5708-4fe1-9094-00a11895a134" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_AbyssosDegen_Base" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ac7e46f7-a612-4075-9172-8aef0b39f2bb" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2a78209c-29ac-4a73-beee-08ff5c4f63cd" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_AbyssosDegen_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0a566449-8063-423d-acea-c530a553d419" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="44df646e-5623-4e2b-b75a-ad434cca341c" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_AbyssosDegen_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8f3a45db-7f9b-4a6d-a926-4fd2719cf517" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f54f803e-f148-4dd0-909f-1cee7e3564c7" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_AbyssosDegen_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1e54721f-f8fa-4a84-b832-e672a0042347" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b7c87319-54e1-4c41-9682-f991a049e416" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fb340f70-d3fb-4176-9b31-6510bb4271dc" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_AbyssosDegen_Base_VFX" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="09686e1c-8658-4110-b396-1461dcacb098" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8d3364d9-d40c-4dfc-9743-227d6918c44e" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_AbyssosDegen_A_0_VFX" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7a71ab40-68ac-4ecf-a579-df407ef2a088" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fbda5bf9-6bdd-4562-9e80-de114efbfe8c" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_AbyssosDegen_A_1_VFX" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="99749521-812e-4a21-ba74-ac7a4fb5caa7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9aff787d-3ab5-4133-a9cf-b8df70c69ceb" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_AbyssosDegen_A_2_VFX" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1e54721f-f8fa-4a84-b832-e672a0042347" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d5d54777-c826-4c27-88ef-295b08faf436" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF453A2D" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8e21f4d0-a128-4290-b158-6cfa8d351615" />
+        <field name="Name" type="NameTableFieldDefinition" value="_HellhoundTuck" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="449d05b0-710e-49c2-9d14-998704c5fd08" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_HellhoundTuck_Base" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="086bdd63-0486-4ad7-b4f2-264a2c6db8bc" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c4609ee0-5924-480a-a7de-deafd141a668" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_HellhoundTuck_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f4bfc961-a87e-405a-a73f-e45563003793" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="26948671-194a-491d-992e-f56bbcfb3c18" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_HellhoundTuck_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="714d7c76-d893-42e1-8960-88ed6e827fed" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="78a0a3ed-0fe9-47c6-a318-5c03b2bee16b" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_HellhoundTuck_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1e54721f-f8fa-4a84-b832-e672a0042347" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d36eb8f6-34be-4adc-b039-178e4b0ea16b" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFFA500" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f996a6c4-e510-47d6-8bad-cef6556a5684" />
+        <field name="Name" type="NameTableFieldDefinition" value="_LawsOrderRapier" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="349a2884-3ac0-4826-b9f0-5ec691c3402d" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_LawsOrderRapier_Base" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4e682fad-8d49-45a1-bba9-255996bc0a1f" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="573da859-286a-4269-a85b-096f10390cc6" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_LawsOrderRapier_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ac909013-c9ee-4f07-856b-633b61d1dcec" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bb64a537-4c0c-46bf-b9f7-7b36e30fda82" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_LawsOrderRapier_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a51a9a66-99e5-4685-adf6-544cfe87d329" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d1d89bd9-40a7-4073-90ec-9ee6016b4f7d" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_LawsOrderRapier_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1e54721f-f8fa-4a84-b832-e672a0042347" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e8b74537-e69a-4930-bd12-cb490167399f" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF00FA9A" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fd3ca945-53b3-4f72-b67f-ef5175e8e7e1" />
+        <field name="Name" type="NameTableFieldDefinition" value="_QuetzalliRapier" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bdc0b86c-978a-4d80-a1a3-421b3011b750" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_QuetzalliRapier_Base" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f24fe386-a29a-4295-9cfc-e75e3587ca8a" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6ea1a10a-dc38-4ede-a3d7-942094f014d6" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_QuetzalliRapier_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="50e9e72e-2d84-4f34-babe-f2969c79e6b6" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ce89de15-7117-4b31-9978-a090fd3354cb" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_QuetzalliRapier_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6fdd72c0-48cb-4b90-9a6d-1e66f568e35d" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0d8e0ddb-d6bc-4a48-97a9-8d37d9c6c082" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_QuetzalliRapier_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1e54721f-f8fa-4a84-b832-e672a0042347" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4821dd60-0ba8-40cd-83a7-aa350dfa5e06" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF8B0000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="77410edd-b0c5-405c-9d80-93192de12cfd" />
+        <field name="Name" type="NameTableFieldDefinition" value="_TropaiosRapier" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="61beb262-9756-444c-841f-16a3811cd3da" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_TropaiosRapier_Base" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4086807c-7db2-4412-a51d-b5f5e1f43af2" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6ddab24e-c16c-4084-b073-b631e14154b5" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_TropaiosRapier_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="cce54c13-018d-451b-8aff-3565f73d1063" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9e1fb66a-f74f-40c9-9f66-f1eb6a6e892b" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_TropaiosRapier_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="39c803e5-e299-4758-9820-9915250c832b" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8ff91213-ce8c-45fb-9b80-a8a279c389d3" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_TropaiosRapier_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1e54721f-f8fa-4a84-b832-e672a0042347" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b50d158d-94d3-4dc3-8f08-db128ff5867e" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5719f1d0-09c3-481e-a283-13bfc5aef7e2" />
+        <field name="Name" type="NameTableFieldDefinition" value="_EdenchoirRapier" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5db55f5c-821b-4363-b39c-46f51d8eda72" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_EdenchoirRapier_Base" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7b27a853-36f0-424e-b072-a50dafc08869" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f2e0173a-5418-4587-919a-f2945fdcb740" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_EdenchoirRapier_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="28eca42b-d9d1-45c0-9bcc-4878746b1766" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d9fe44c2-a911-4d30-83f1-1436940e34a7" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_EdenchoirRapier_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ef1690a2-2b6d-44f5-8aa5-640b89ca91f1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1d1dc15f-42cb-4053-babb-19dd124ddb81" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a98b8a4f-0a9c-4281-88a1-4255abf7f6a1" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_EdenchoirRapier_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1e54721f-f8fa-4a84-b832-e672a0042347" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="bd7997d8-72ab-4c89-860d-7f6279f3d83c" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF000000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9e5db4ff-6905-4ae5-8b44-bf758f3b8f88" />
+        <field name="Name" type="NameTableFieldDefinition" value="_VoidcastRapier" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ccdaf975-d230-4eac-8a58-e2689df9a270" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_VoidcastRapier_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d2433c3c-7d1b-493c-84a2-f8427a490128" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF0000FF" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="94851e69-ba1f-41b4-9317-1e19d69b80b7" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Scimitars" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF7B68EE" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="be349d3d-0320-4b71-889f-b6e53370d6d7" />
+        <field name="Name" type="NameTableFieldDefinition" value="_EdenmornTwinfangs" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="797ee6e9-a6b9-4aba-b754-2ad6fa899e36" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Scimitar_EdenmornTwinfangs_Base" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04d79ec4-4fd9-4105-b43c-7391ea6fbfa9" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b1b1e968-00e0-472d-bd73-553c65adf51d" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1f88788f-5595-4403-9b3d-620a1dba2d7e" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Scimitar_EdenmornTwinfangs_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04d79ec4-4fd9-4105-b43c-7391ea6fbfa9" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="026650e5-891a-4a65-8ef9-aaf358f5894a" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1e73dc6e-1ad5-4ab8-9465-854e90494148" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Scimitar_EdenmornTwinfangs_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b0f83f41-fddd-4a7a-aa3f-fa1d81f1df75" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6a959ebc-6e74-4b4f-be16-c5ca91f09a27" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cd895d85-a621-41e7-ba16-2e54a66e3860" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Scimitar_EdenmornTwinfangs_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4a78c03d-559b-40bb-9cec-fd54ff0727ff" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="63f95dd4-0ac2-4190-8988-86c6303ee120" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bdcc77ba-a86c-47d7-9067-20267a5cd7bf" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_MAG_Mobility_MomentumOnAttack_Scimitar_EdenmornTwinfangs" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="821f5a99-932c-41b0-a49e-09ac0e18e713" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d29538ee-8127-43b9-b923-29f8cb776ab3" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3fb84504-114e-4cad-abd8-290b23a184b0" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Scimitar_EdenmornTwinfangs_Ult_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04d79ec4-4fd9-4105-b43c-7391ea6fbfa9" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1174ba84-600a-4dcf-9c33-c4bc3bb8dfd1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="31840805-6614-413a-b76c-0b920caf370e" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Scimitar_EdenmornTwinfangs_Ult_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b0f83f41-fddd-4a7a-aa3f-fa1d81f1df75" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b296b49b-f49d-4c80-814f-97b3084373d0" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6e3bb734-3552-438d-ac05-624843548e13" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Scimitar_EdenmornTwinfangs_Ult_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4a78c03d-559b-40bb-9cec-fd54ff0727ff" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d3c2b1de-5793-458e-a2fa-a9691d081a53" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="90a7d5c1-523a-41c6-b468-d8bc91a32526" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_MAG_Mobility_MomentumOnAttack_Scimitar_EdenmornTwinfangs_Ult" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="821f5a99-932c-41b0-a49e-09ac0e18e713" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8e50601f-c5aa-43e3-b13a-b88f68eacd83" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF778899" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="24e44b4e-8bcc-41be-92ef-5c6dd96d6acf" />
+        <field name="Name" type="NameTableFieldDefinition" value="_TropaiosSaberfangs" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9044fc92-5934-44ce-b795-ee45161c92d2" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Scimitar_TropaiosSaberfangs_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04d79ec4-4fd9-4105-b43c-7391ea6fbfa9" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="29aa8047-95eb-449e-bf7a-401f6ff3458d" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f38510fa-bf37-4b7f-b470-e85abfebd9f4" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Scimitar_TropaiosSaberfangs_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b0f83f41-fddd-4a7a-aa3f-fa1d81f1df75" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8f4e6a0a-f670-456a-a41a-fe6b23da1e3a" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b4bb0370-849c-44b0-9065-7fc9f383ee7a" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Scimitar_TropaiosSaberfangs_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4a78c03d-559b-40bb-9cec-fd54ff0727ff" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="45e33996-0818-4c4b-8d18-826aae94d217" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ce411cf9-eed3-411d-bd8b-4c1eff6cd893" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_MAG_Mobility_MomentumOnAttack_Scimitar_TropaiosSaberfangs" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="821f5a99-932c-41b0-a49e-09ac0e18e713" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="bf6ffacd-1d5e-451b-902d-81706376e0ec" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF32CD32" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6cc45a55-b64c-4088-bd03-25b1f9036c6e" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Glaives" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4682B4" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a58f3f67-a6c6-4705-9740-acc379338304" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Glaive_EstinienSpear" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b2a96df0-807c-415c-9d00-ed5e1414a028" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Glaive_EstinienSpear_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="06bb3875-3807-48ad-a95e-4b897379f9e5" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ac354cb0-95ec-4203-a9dd-cee271179e99" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ddee71cd-6278-4270-82e2-6f423f60c74a" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Glaive_EstinienSpear_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ee9ecdc8-b753-4e64-b339-eb3fba9b6305" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ff190f18-9c52-41f0-97a1-59d55341f0b3" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e8941dca-f908-4a3b-865f-f4ebb8d3e334" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Glaive_EstinienSpear_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4290eddc-b607-45e5-b4cf-55f88ae1b66b" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7dfc1cd7-c384-4060-9ccc-84cc119d84d1" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFF08080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0d9a3a66-732c-47b2-9064-d075a3cb42c3" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Spears" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4169E1" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6907b7cd-3c13-460e-be4c-5904d3d20ee1" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Spear_EstinienSpear" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d9a94c09-65cd-4999-aff5-ec396dee286c" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Spear_EstinienSpear_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3f8d18c2-d5ed-46dc-9097-05669db73cec" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="10ed3363-b627-4b1f-bdcb-b87a0b930c6f" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="369ea521-5ed2-4afc-a7a9-e7e7a200754f" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Spear_EstinienSpear_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6a3cb483-fa5c-4fd5-9e9f-a35f8be4f20d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0e9ca357-df88-4700-befa-7c8a4ee79479" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3d2bb23b-d418-498b-a006-9c9228a61a7e" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Spear_EstinienSpear_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2922cf49-9afa-4eb5-8397-519aecb72464" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d855c656-97e1-417f-aed0-c1cfe23aee27" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="48c2b7fc-2107-4f10-97bd-93eb49f4b250" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_FOR_TrueSoul_Spear_EstinienSpear" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="95a2c82b-f802-4769-835f-e5c3095d0b97" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="be0b4b26-f898-463c-bfa9-ae3ea06a884d" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF20B2AA" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a9a0fe94-2499-45d4-812a-ef6ae1974f15" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Greatsword" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFA0522D" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c03040a3-9217-491b-aa25-d542daf11f96" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Deathbringer" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="378e08ee-e42f-4b0b-bbf4-ce2d16161b59" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Greatsword_Deathbringer" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="37cee654-fa7a-475b-8a6d-97254951444c" />
+        <field name="Damage Type" type="EnumerationTableFieldDefinition" value="Slashing" enumeration_type_name="Damage Type" version="1" />
+        <field name="Damage" type="DiceTableFieldDefinition" value="2d6" />
+        <field name="Weapon Group" type="EnumerationTableFieldDefinition" value="MartialMeleeWeapon" enumeration_type_name="Weapon Group" version="1" />
+        <field name="Weapon Properties" type="EnumerationListTableFieldDefinition" value="Twohanded;Heavy;Melee;Dippable" enumeration_type_name="WeaponFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="Greatswords;MartialWeapons" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d84f23ca-eaef-4674-a722-92279dfefb0f" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="2.7" />
+        <field name="BoostsOnEquipMainHand" type="StringTableFieldDefinition" value="UnlockSpell(Target_PommelStrike);UnlockSpell(Target_Slash_New);UnlockSpell(Zone_Cleave);" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

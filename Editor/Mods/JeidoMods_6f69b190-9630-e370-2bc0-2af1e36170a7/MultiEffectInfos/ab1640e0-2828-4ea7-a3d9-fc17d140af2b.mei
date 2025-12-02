@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="ab1640e0-2828-4ea7-a3d9-fc17d140af2b" OwnerUUID="00000000-0000-0000-0000-000000000000" Name="JEI_Necrotic_Weapon_Murgleis_StatusEffect">
+  <EffectInfo UUID="b1c020d4-9089-4feb-8d8d-afc185e51eb2" EffectResourceGuid="18194f51-72f7-98c1-3979-3ced2f1c5b2c" DetachSource="false" DetachTarget="false" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="true" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" DamageType="None" VerbalIntent="None" TargetBone="Dummy_FX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

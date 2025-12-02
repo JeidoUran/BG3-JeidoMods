@@ -1,0 +1,200 @@
+{
+  "FileVersion": 1,
+  "Items": [
+    {
+      "TemplateUUID": "16a94034-a7a0-488c-9aab-ba2bdd0b3183",
+      "Send": {
+        "Quantity": 1,
+        "To": {
+          "CampChest": {
+            "Player1Chest": true,
+            "Player2Chest": true,
+            "Player3Chest": true,
+            "Player4Chest": true
+          },
+          "Host": false
+        },
+        "On": {
+          "SaveLoad": true,
+          "DayEnd": false
+        },
+        "NotifyPlayer": true,
+        "Check": {
+          "ItemExistence": {
+            "CampChest": {
+              "Player1Chest": true,
+              "Player2Chest": true,
+              "Player3Chest": true,
+              "Player4Chest": true
+            },
+            "PartyMembers": {
+              "ActiveParty": true,
+              "AtCamp": true
+            },
+            "FrameworkCheck": true
+          },
+          "PlayerProgression": {
+            "Level": 1,
+            "Act": 1
+          }
+        }
+      }
+    },
+    {
+      "TemplateUUID": "ddf3661d-6a7a-4f4d-af3e-75fd0bb30e87",
+      "Send": {
+        "Quantity": 1,
+        "To": {
+          "CampChest": {
+            "Player1Chest": true,
+            "Player2Chest": true,
+            "Player3Chest": true,
+            "Player4Chest": true
+          },
+          "Host": false
+        },
+        "On": {
+          "SaveLoad": true,
+          "DayEnd": false
+        },
+        "NotifyPlayer": true,
+        "Check": {
+          "ItemExistence": {
+            "CampChest": {
+              "Player1Chest": true,
+              "Player2Chest": true,
+              "Player3Chest": true,
+              "Player4Chest": true
+            },
+            "PartyMembers": {
+              "ActiveParty": true,
+              "AtCamp": true
+            },
+            "FrameworkCheck": true
+          },
+          "PlayerProgression": {
+            "Level": 1,
+            "Act": 1
+          }
+        }
+      }
+    },
+    {
+      "TemplateUUID": "d0b793f1-b7c8-42fe-8687-a8f4321ad8b0",
+      "Send": {
+        "Quantity": 1,
+        "To": {
+          "CampChest": {
+            "Player1Chest": true,
+            "Player2Chest": true,
+            "Player3Chest": true,
+            "Player4Chest": true
+          },
+          "Host": false
+        },
+        "On": {
+          "SaveLoad": true,
+          "DayEnd": false
+        },
+        "NotifyPlayer": true,
+        "Check": {
+          "ItemExistence": {
+            "CampChest": {
+              "Player1Chest": true,
+              "Player2Chest": true,
+              "Player3Chest": true,
+              "Player4Chest": true
+            },
+            "PartyMembers": {
+              "ActiveParty": true,
+              "AtCamp": true
+            },
+            "FrameworkCheck": true
+          },
+          "PlayerProgression": {
+            "Level": 1,
+            "Act": 1
+          }
+        }
+      }
+    },
+    {
+      "TemplateUUID": "50ecb309-2ea9-49b6-974b-e5a6d44b30c9",
+      "Send": {
+        "Quantity": 1,
+        "To": {
+          "CampChest": {
+            "Player1Chest": true,
+            "Player2Chest": true,
+            "Player3Chest": true,
+            "Player4Chest": true
+          },
+          "Host": false
+        },
+        "On": {
+          "SaveLoad": true,
+          "DayEnd": false
+        },
+        "NotifyPlayer": true,
+        "Check": {
+          "ItemExistence": {
+            "CampChest": {
+              "Player1Chest": true,
+              "Player2Chest": true,
+              "Player3Chest": true,
+              "Player4Chest": true
+            },
+            "PartyMembers": {
+              "ActiveParty": true,
+              "AtCamp": true
+            },
+            "FrameworkCheck": true
+          },
+          "PlayerProgression": {
+            "Level": 1,
+            "Act": 1
+          }
+        }
+      }
+    },
+    {
+      "TemplateUUID": "08580472-0986-4eec-98a8-598fef089748",
+      "Send": {
+        "Quantity": 1,
+        "To": {
+          "CampChest": {
+            "Player1Chest": true,
+            "Player2Chest": true,
+            "Player3Chest": true,
+            "Player4Chest": true
+          },
+          "Host": false
+        },
+        "On": {
+          "SaveLoad": true,
+          "DayEnd": false
+        },
+        "NotifyPlayer": true,
+        "Check": {
+          "ItemExistence": {
+            "CampChest": {
+              "Player1Chest": true,
+              "Player2Chest": true,
+              "Player3Chest": true,
+              "Player4Chest": true
+            },
+            "PartyMembers": {
+              "ActiveParty": true,
+              "AtCamp": true
+            },
+            "FrameworkCheck": true
+          },
+          "PlayerProgression": {
+            "Level": 1,
+            "Act": 1
+          }
+        }
+      }
+    }
+  ]
+}

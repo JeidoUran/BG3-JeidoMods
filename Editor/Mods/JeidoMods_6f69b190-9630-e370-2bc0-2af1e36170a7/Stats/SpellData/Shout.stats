@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="9fd4ac7a-fad7-424f-83df-0893eae93c38">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dea85f03-4f00-4960-815f-f06e434da129" />
+        <field name="Name" type="NameTableFieldDefinition" value="PactOfTheBlade" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Warlock_PactOfTheBlade_BoundWeapon" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h89f0b838g285fg4e72g8ce4gaf1e8ec5ac2c" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h277c9a64g8300g419egbda7g62763b24ba72" version="6" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="f489d217-b699-4e8e-bf22-6ef539c5d65b,,;,,;7a343ea7-1330-428a-b0b1-9f6dc7f2a91c,,;0f872585-3c6e-4493-a0b5-5acc882b7aaf,,;f9414915-2da7-4f40-bcbd-90e956461246,,;,,;f2a62277-c87a-4ec7-b4f2-c3c37e6e30ae,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Summon" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_PactOfTheBlade" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsLinkedSpellContainer" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="d9038b21-f4cc-4c8a-99c1-6168e1fe46ba" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="135cb448-04f9-4543-b670-7bebea4ae21d" />
+        <field name="SpellStyleGroup" type="EnumerationTableFieldDefinition" value="Class" enumeration_type_name="SpellStyleGroup" version="1" />
+        <field name="ContainerSpells" type="StringTableFieldDefinition" value="Shout_PactOfTheBlade_Battleaxe;Shout_PactOfTheBlade_Glaive;Shout_PactOfTheBlade_Greatsword;Shout_PactOfTheBlade_Rapier;Shout_PactOfTheBlade_Trident;Shout_PactOfTheBlade_Warhammer;Shout_JEI_PactOfTheBlade_Rapier_Murgleis" />
+        <field name="AnimationIntentType" type="EnumerationTableFieldDefinition" value="Aggressive" enumeration_type_name="SpellAnimationIntentType" version="1" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" value="OncePerCombat" enumeration_type_name="CooldownType" version="1" />
+        <field name="Sheathing" type="EnumerationTableFieldDefinition" value="Sheathed" enumeration_type_name="SpellSheathing" version="1" />
+        <field name="ExtraDescription" type="TranslatedStringTableFieldDefinition" handle="h1ab7befbg47b0g4503g8bc7g6c5f736d2784" version="3" />
+        <field name="ExtraDescriptionParams" type="StringTableFieldDefinition" value="Distance(1.5)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="234da5c8-c833-45c9-93c1-f1f1ee94cac0" />
+        <field name="Name" type="NameTableFieldDefinition" value="PactOfTheBlade_Rapier" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="dea85f03-4f00-4960-815f-f06e434da129" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="SummonInInventory(705662e8-2a7f-4c7e-b0a0-e505395a45e3,Permanent,1,true,true,true,,,PactBlade,PACT_BLADE)" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6e740ca1g2d8cg4706g9e7dg596c2bfe832f" version="2" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Shout_PactOfTheBlade" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_PactOfTheBlade_Rapier" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd19e0b8fg2efag46dbgb8dag5f677b193328" version="2" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="UNUSED_D" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="ContainerSpells" type="StringTableFieldDefinition" value="Shout_PactOfTheBlade_Battleaxe;Shout_PactOfTheBlade_Glaive;Shout_PactOfTheBlade_Greatsword;Shout_PactOfTheBlade_Rapier;Shout_PactOfTheBlade_Trident;Shout_PactOfTheBlade_Warhammer;Shout_JEI_PactOfTheBlade_Rapier_Murgleis" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0d54a433-1100-46c7-b31b-89a516f8ab53" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_PactOfTheBlade_Rapier_Murgleis" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="dea85f03-4f00-4960-815f-f06e434da129" />
+        <field name="ContainerSpells" type="StringTableFieldDefinition" value="Shout_PactOfTheBlade_Battleaxe;Shout_PactOfTheBlade_Glaive;Shout_PactOfTheBlade_Greatsword;Shout_PactOfTheBlade_Rapier;Shout_PactOfTheBlade_Trident;Shout_PactOfTheBlade_Warhammer;Shout_JEI_PactOfTheBlade_Rapier_Murgleis" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="SummonInInventory(0c63ff65-1d8b-432b-89f8-e8b3eec0eade,Permanent,1,true,true,true,,,PactBlade,PACT_BLADE)" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9eb0e526g259cgdf40g6b46g69e53e6a9d2c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbd6c352bgc22cg995fg3ca7g1d4c7d9998c9" version="1" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Shout_PactOfTheBlade" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_PactOfTheBlade_Rapier" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="UNUSED_D" enumeration_type_name="SpellFlagList" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

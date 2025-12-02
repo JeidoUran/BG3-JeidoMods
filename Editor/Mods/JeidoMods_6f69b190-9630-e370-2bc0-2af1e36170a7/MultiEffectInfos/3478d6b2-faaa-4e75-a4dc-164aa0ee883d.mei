@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="3478d6b2-faaa-4e75-a4dc-164aa0ee883d" OwnerUUID="00000000-0000-0000-0000-000000000000" Name="JEI_AbyssosDegen_Fire_Effect">
+  <EffectInfo UUID="20460b32-448d-4d05-b903-b46d3d52bb6b" EffectResourceGuid="1add3a0b-7bce-c414-2d69-7ba20030d5e0" DetachSource="false" DetachTarget="false" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="false" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" DamageType="None" VerbalIntent="None" TargetBone="Dummy_FX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>
