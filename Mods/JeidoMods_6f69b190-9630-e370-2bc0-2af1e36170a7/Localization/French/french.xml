@@ -205,7 +205,7 @@
   <content contentuid="h2b17ead2g22d5g8b6cg0e2egee92b0f98b58" version="3">Jambières d'éclaireur de Troïa</content>
   <content contentuid="h6b51fd8fg54e5g0e64g2401gd4123bc5f6b2" version="6">Rapière obscure du néant</content>
   <content contentuid="hde524199g1e27g6579gb3e1g7bddfd77529f" version="6">Remplace la Rapière de base.</content>
-  <content contentuid="h97d8570egcf4dgffebg4dc7gecc18e1fda7c" version="2">Teinture obscure du néant alternative/content>
+  <content contentuid="h97d8570egcf4dgffebg4dc7gecc18e1fda7c" version="2">Teinture obscure du néant alternative</content>
   <content contentuid="hdf94f2beg6412gff64gbb48g99d4b271e198" version="12">Mortifère</content>
   <content contentuid="h8717e1b3g676egeffbg6278g7912c15ceeef" version="4">Chaussures d'agresseur de l'Asphodèle</content>
   <content contentuid="h229b69acg0059g07d9g96cdg33e3fd0b7452" version="5">Himation d'agresseur de l'Asphodèle</content>
@@ -213,4 +213,9 @@
   <content contentuid="h45808990ga2fdge76cg7280g4a3b9745de63" version="4">Teinture de l'Asphodèle alternative</content>
   <content contentuid="h49e90037ge789ge729g6d00gdfda5630b11a" version="2">Coffre à grandes épées</content>
   <content contentuid="h5f7d46afga83eg4f59g043fg9a9fe6d6d3e6" version="2">Coffre comprenant un ensemble de grandes épées semblant provenir d'un autre monde.</content>
+  <content contentuid="had93b1feg3a12g5bc6g1b30g8d8f8b67d3c9" version="1">Manteau sang de rose</content>
+  <content contentuid="h363e7fc6g4522g4ce3gb32eg59587943f2a7" version="2">Bottes sang de rose</content>
+  <content contentuid="h63cc0a8cgf311g4c41gcde2g72edf67d1c0e" version="2">Gants sang de rose</content>
+  <content contentuid="he70a5cf1gc3a2g8fd1g2926gda1997571123" version="2">Manteau sang de rose</content>
+  <content contentuid="h689aa653gd41ag28c4gcb3agdaec3bee6c17" version="1">Teinture sang de rose alternative</content>
 </contentList>
