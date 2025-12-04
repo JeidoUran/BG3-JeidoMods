@@ -72,6 +72,16 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_13" />
+        <field name="UUID" type="IdTableFieldDefinition" value="eddf984d-34f1-4647-95cb-b83f4fa10c03" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="75a43caa-175d-446f-a879-77bb3697070c" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="8d67deac-4241-4974-b0c7-63c93c39a52a" />
+        <field name="AnimationUUID" type="GuidTableFieldDefinition" value="beeabe70-56cd-4cb4-aa83-4f032dcfe146" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Headwear" enumeration_type_name="EquipmentIconCameraNames" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_272" />
         <field name="UUID" type="IdTableFieldDefinition" value="b3cef7fc-a7f9-4903-a4cb-2070d87ddbbd" />
         <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="d2433c3c-7d1b-493c-84a2-f8427a490128" />

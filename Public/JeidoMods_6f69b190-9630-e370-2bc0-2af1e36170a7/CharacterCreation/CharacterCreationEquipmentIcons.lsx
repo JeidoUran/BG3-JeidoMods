@@ -5,6 +5,13 @@
         <node id="root">
             <children>
                 <node id="CharacterCreationEquipmentIcon">
+                    <attribute id="AnimationUUID" type="guid" value="beeabe70-56cd-4cb4-aa83-4f032dcfe146"/>
+                    <attribute id="EquipmentTemplate" type="guid" value="8b95ce5c-8397-4dbb-b27d-3cdfc2be4d12"/>
+                    <attribute id="RootTemplate" type="guid" value="01ba6015-27ba-40e8-9405-5bf4c7c411d0"/>
+                    <attribute id="SlotName" type="FixedString" value="Headwear"/>
+                    <attribute id="UUID" type="guid" value="a803f1eb-2710-47bd-b45a-4a08097b0af5"/>
+                </node>
+                <node id="CharacterCreationEquipmentIcon">
                     <attribute id="EquipmentTemplate" type="guid" value="99da8580-e790-4c03-be38-251e30434d55"/>
                     <attribute id="RootTemplate" type="guid" value="01ba6015-27ba-40e8-9405-5bf4c7c411d0"/>
                     <attribute id="SlotName" type="FixedString" value="Body"/>
@@ -23,13 +30,6 @@
                     <attribute id="RootTemplate" type="guid" value="01ba6015-27ba-40e8-9405-5bf4c7c411d0"/>
                     <attribute id="SlotName" type="FixedString" value="Footwear"/>
                     <attribute id="UUID" type="guid" value="b0cb7c82-dd9f-48fe-b56a-af056605633f"/>
-                </node>
-                <node id="CharacterCreationEquipmentIcon">
-                    <attribute id="AnimationUUID" type="guid" value="beeabe70-56cd-4cb4-aa83-4f032dcfe146"/>
-                    <attribute id="EquipmentTemplate" type="guid" value="8b95ce5c-8397-4dbb-b27d-3cdfc2be4d12"/>
-                    <attribute id="RootTemplate" type="guid" value="01ba6015-27ba-40e8-9405-5bf4c7c411d0"/>
-                    <attribute id="SlotName" type="FixedString" value="Headwear"/>
-                    <attribute id="UUID" type="guid" value="a803f1eb-2710-47bd-b45a-4a08097b0af5"/>
                 </node>
                 <node id="CharacterCreationEquipmentIcon">
                     <attribute id="AnimationUUID" type="guid" value="beeabe70-56cd-4cb4-aa83-4f032dcfe146"/>
@@ -86,6 +86,13 @@
                     <attribute id="EquipmentTemplate" type="guid" value="d84f23ca-eaef-4674-a722-92279dfefb0f"/>
                     <attribute id="IconGenerationTrigger" type="FixedString" value="Icon_Weapon_Greatsword"/>
                     <attribute id="UUID" type="guid" value="f6ce6c47-b30a-4149-a6d0-acc0c080a4ba"/>
+                </node>
+                <node id="CharacterCreationEquipmentIcon">
+                    <attribute id="AnimationUUID" type="guid" value="beeabe70-56cd-4cb4-aa83-4f032dcfe146"/>
+                    <attribute id="EquipmentTemplate" type="guid" value="8d67deac-4241-4974-b0c7-63c93c39a52a"/>
+                    <attribute id="RootTemplate" type="guid" value="75a43caa-175d-446f-a879-77bb3697070c"/>
+                    <attribute id="SlotName" type="FixedString" value="Headwear"/>
+                    <attribute id="UUID" type="guid" value="eddf984d-34f1-4647-95cb-b83f4fa10c03"/>
                 </node>
             </children>
         </node>
