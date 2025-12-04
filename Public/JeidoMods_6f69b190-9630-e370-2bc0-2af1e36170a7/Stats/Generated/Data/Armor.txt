@@ -208,3 +208,53 @@ using "_Foot"
 data "RootTemplate" "5476deb7-2f4e-41fc-a2d2-d046acbf07a7"
 data "Rarity" "VeryRare"
 
+new entry "_Roseblood"
+type "Armor"
+
+new entry "JEI_ARM_Roseblood_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "be6acbaf-3834-4918-ae12-720f982d52b4"
+data "Rarity" "Legendary"
+data "Armor Class Ability" "Dexterity"
+
+new entry "JEI_ARM_Gloves_Roseblood"
+type "Armor"
+using "_Hand"
+data "RootTemplate" "3ed6b869-d9e6-4ce4-a84c-7afbaaf8c96c"
+data "Rarity" "Legendary"
+
+new entry "JEI_ARM_Boots_Roseblood"
+type "Armor"
+using "_Foot"
+data "RootTemplate" "ccd6dda7-615d-4d1b-b352-d0d2f8091d73"
+data "Rarity" "Legendary"
+
+new entry "_Etoile"
+type "Armor"
+
+new entry "JEI_ARM_Headwear_Etoile"
+type "Armor"
+using "_Head"
+data "RootTemplate" "8b95ce5c-8397-4dbb-b27d-3cdfc2be4d12"
+data "Rarity" "Legendary"
+
+new entry "JEI_ARM_Etoile_Body"
+type "Armor"
+using "_Body"
+data "RootTemplate" "99da8580-e790-4c03-be38-251e30434d55"
+data "Rarity" "Legendary"
+data "Armor Class Ability" "Dexterity"
+
+new entry "JEI_ARM_Gloves_Etoile"
+type "Armor"
+using "_Hand"
+data "RootTemplate" "21a5cff3-c972-4e47-8996-c4b3bb370cf5"
+data "Rarity" "Legendary"
+
+new entry "JEI_ARM_Boots_Etoile"
+type "Armor"
+using "_Foot"
+data "RootTemplate" "62abba7f-38d2-4cab-b51e-57badafdd969"
+data "Rarity" "Legendary"
+

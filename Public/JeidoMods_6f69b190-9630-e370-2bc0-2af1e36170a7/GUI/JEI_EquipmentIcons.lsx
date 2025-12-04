@@ -40,6 +40,13 @@
                     <attribute id="V2" type="float" value="0.24951172"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_ARM_Boots_Etoile"/>
+                    <attribute id="U1" type="float" value="0.43798828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="JEI_ARM_Boots_NeoKingdomMaiming_Icon"/>
                     <attribute id="U1" type="float" value="0.25048828"/>
                     <attribute id="U2" type="float" value="0.31201172"/>
@@ -82,6 +89,13 @@
                     <attribute id="V2" type="float" value="0.062011719"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_ARM_Etoile_Body"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.68701172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="JEI_ARM_Gloves_Aoidos_Icon"/>
                     <attribute id="U1" type="float" value="0.50048828"/>
                     <attribute id="U2" type="float" value="0.56201172"/>
@@ -92,6 +106,13 @@
                     <attribute id="MapKey" type="FixedString" value="JEI_ARM_Gloves_AsphodelosStriking"/>
                     <attribute id="U1" type="float" value="0.18798828"/>
                     <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_ARM_Gloves_Etoile"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.56201172"/>
                     <attribute id="V1" type="float" value="0.18798828"/>
                     <attribute id="V2" type="float" value="0.24951172"/>
                 </node>
@@ -171,6 +192,13 @@
                     <attribute id="U2" type="float" value="0.68701172"/>
                     <attribute id="V1" type="float" value="0.062988281"/>
                     <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_ARM_Headwear_Etoile"/>
+                    <attribute id="U1" type="float" value="0.56298828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.18798828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="JEI_ARM_Headwear_FriendshipCirclet_Icon"/>
