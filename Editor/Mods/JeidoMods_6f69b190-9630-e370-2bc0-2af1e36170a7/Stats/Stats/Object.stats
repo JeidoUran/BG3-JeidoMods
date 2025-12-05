@@ -131,5 +131,14 @@
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="baa28a1a-86e2-4d3f-b2e6-0f26120641df" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Etoile_01" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="36b3c171-df8c-455f-b038-01543c96d985" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

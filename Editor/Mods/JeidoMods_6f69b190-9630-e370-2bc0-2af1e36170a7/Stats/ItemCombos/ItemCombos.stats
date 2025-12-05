@@ -141,5 +141,19 @@
         <field name="DyeColorPresetResource" type="FixedStringTableFieldDefinition" value="62a08599-15f3-1d51-fe75-25f6a4107dc0" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d63cac8f-cdc6-460d-a4b8-8dde51022912" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Etoile_01" />
+        <field name="Type 1" type="EnumerationTableFieldDefinition" value="Object" enumeration_type_name="IngredientType" version="1" />
+        <field name="Object 1" type="StringTableFieldDefinition" value="JEI_OBJ_Dye_Etoile_01" />
+        <field name="Transform 1" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="IngredientTransformType" version="1" />
+        <field name="Type 2" type="EnumerationTableFieldDefinition" value="Category" enumeration_type_name="IngredientType" version="1" />
+        <field name="Object 2" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Transform 2" type="EnumerationTableFieldDefinition" value="Dye" enumeration_type_name="IngredientTransformType" version="1" />
+        <field name="ResultAmount 1" type="IntegerTableFieldDefinition" value="1" />
+        <field name="DyeColorPresetResource" type="FixedStringTableFieldDefinition" value="9df28401-5a8f-c27c-00d1-c910670fdebb" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

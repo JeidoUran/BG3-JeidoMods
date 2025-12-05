@@ -83,3 +83,9 @@ using "_Dye_Rare"
 data "RootTemplate" "74245a0e-dd9c-434a-a7d6-90c7fb218354"
 data "Rarity" "Rare"
 
+new entry "JEI_OBJ_Dye_Etoile_01"
+type "Object"
+using "_Dye_Rare"
+data "RootTemplate" "36b3c171-df8c-455f-b038-01543c96d985"
+data "Rarity" "Rare"
+
