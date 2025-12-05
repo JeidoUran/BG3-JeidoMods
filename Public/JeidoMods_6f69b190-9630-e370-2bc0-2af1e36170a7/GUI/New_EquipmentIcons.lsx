@@ -6,8 +6,8 @@
             <children>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="JEI_BASE_WEAPON_Scimitar_EdenmornTwinfangs"/>
-                    <attribute id="U1" type="float" value="0.50195312"/>
-                    <attribute id="U2" type="float" value="0.74804688"/>
+                    <attribute id="U1" type="float" value="0.75195312"/>
+                    <attribute id="U2" type="float" value="0.99804688"/>
                     <attribute id="V1" type="float" value="0.001953125"/>
                     <attribute id="V2" type="float" value="0.24804688"/>
                 </node>
@@ -27,29 +27,29 @@
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Glaive_EstinienSpear_A_0"/>
-                    <attribute id="U1" type="float" value="0.001953125"/>
-                    <attribute id="U2" type="float" value="0.24804688"/>
-                    <attribute id="V1" type="float" value="0.25195312"/>
-                    <attribute id="V2" type="float" value="0.49804688"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Spear_EstinienSpear_A_0"/>
-                    <attribute id="U1" type="float" value="0.75195312"/>
-                    <attribute id="U2" type="float" value="0.99804688"/>
-                    <attribute id="V1" type="float" value="0.001953125"/>
-                    <attribute id="V2" type="float" value="0.24804688"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Spear_EstinienSpear_A_1"/>
                     <attribute id="U1" type="float" value="0.25195312"/>
                     <attribute id="U2" type="float" value="0.49804688"/>
                     <attribute id="V1" type="float" value="0.25195312"/>
                     <attribute id="V2" type="float" value="0.49804688"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Spear_EstinienSpear_A_2"/>
+                    <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Spear_EstinienSpear_A_0"/>
+                    <attribute id="U1" type="float" value="0.001953125"/>
+                    <attribute id="U2" type="float" value="0.24804688"/>
+                    <attribute id="V1" type="float" value="0.25195312"/>
+                    <attribute id="V2" type="float" value="0.49804688"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Spear_EstinienSpear_A_1"/>
                     <attribute id="U1" type="float" value="0.50195312"/>
                     <attribute id="U2" type="float" value="0.74804688"/>
+                    <attribute id="V1" type="float" value="0.25195312"/>
+                    <attribute id="V2" type="float" value="0.49804688"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Spear_EstinienSpear_A_2"/>
+                    <attribute id="U1" type="float" value="0.75195312"/>
+                    <attribute id="U2" type="float" value="0.99804688"/>
                     <attribute id="V1" type="float" value="0.25195312"/>
                     <attribute id="V2" type="float" value="0.49804688"/>
                 </node>

@@ -53,6 +53,13 @@
                     <attribute id="UUID" type="guid" value="fc75b357-d57d-4749-9303-22b41042c337"/>
                 </node>
                 <node id="CharacterCreationEquipmentIcon">
+                    <attribute id="AnimationUUID" type="guid" value="beeabe70-56cd-4cb4-aa83-4f032dcfe146"/>
+                    <attribute id="EquipmentTemplate" type="guid" value="8d67deac-4241-4974-b0c7-63c93c39a52a"/>
+                    <attribute id="RootTemplate" type="guid" value="75a43caa-175d-446f-a879-77bb3697070c"/>
+                    <attribute id="SlotName" type="FixedString" value="Headwear"/>
+                    <attribute id="UUID" type="guid" value="eddf984d-34f1-4647-95cb-b83f4fa10c03"/>
+                </node>
+                <node id="CharacterCreationEquipmentIcon">
                     <attribute id="EquipmentTemplate" type="guid" value="d2433c3c-7d1b-493c-84a2-f8427a490128"/>
                     <attribute id="IconGenerationTrigger" type="FixedString" value="Icon_Weapon_Rapier"/>
                     <attribute id="UUID" type="guid" value="b3cef7fc-a7f9-4903-a4cb-2070d87ddbbd"/>
@@ -86,13 +93,6 @@
                     <attribute id="EquipmentTemplate" type="guid" value="d84f23ca-eaef-4674-a722-92279dfefb0f"/>
                     <attribute id="IconGenerationTrigger" type="FixedString" value="Icon_Weapon_Greatsword"/>
                     <attribute id="UUID" type="guid" value="f6ce6c47-b30a-4149-a6d0-acc0c080a4ba"/>
-                </node>
-                <node id="CharacterCreationEquipmentIcon">
-                    <attribute id="AnimationUUID" type="guid" value="beeabe70-56cd-4cb4-aa83-4f032dcfe146"/>
-                    <attribute id="EquipmentTemplate" type="guid" value="8d67deac-4241-4974-b0c7-63c93c39a52a"/>
-                    <attribute id="RootTemplate" type="guid" value="75a43caa-175d-446f-a879-77bb3697070c"/>
-                    <attribute id="SlotName" type="FixedString" value="Headwear"/>
-                    <attribute id="UUID" type="guid" value="eddf984d-34f1-4647-95cb-b83f4fa10c03"/>
                 </node>
             </children>
         </node>
