@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="8edf39d9-b57a-4f22-b740-6a40996f11b7" />
+					<attribute id="Name" type="LSString" value="HUM_M_ARM_JudgeGabranth_Body_Cape" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/DFFNT_Gear/Assets/JudgeGabranth/HUM_M_ARM_JudgeGabranth_Body_Cape.GR2" />
+					<attribute id="Slot" type="FixedString" value="Body" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/DFFNT_Gear/Assets/JudgeGabranth/HUM_M_ARM_JudgeGabranth_Body_Cape.Dummy_Root.0" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="MaterialType" type="uint8" value="13" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="BoundsMin" type="fvec3" value="0 0 0" />
+					<attribute id="BoundsMax" type="fvec3" value="0 0 0" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<children>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_JudgeGabranth_Body_Cape.HUM_Body_Cape.0" />
+							<attribute id="MaterialID" type="FixedString" value="97da8aec-2ba3-3b32-f57e-cb07f8695a42" />
+							<attribute id="LOD" type="uint8" value="0" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_M_ARM_JudgeGabranth_Body_Cape.HUM_Body_Cape_Cloth_Mesh.1" />
+							<attribute id="MaterialID" type="FixedString" value="9e2966c7-b61c-4bc1-bef1-a79cb5fde067" />
+							<attribute id="LOD" type="uint8" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="Base" />
+            <node id="ClothParams">
+							<attribute id="AngularDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="AngularInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="AnimDriveDampingForce" type="float" value="0" />
+							<attribute id="AnimDriveSpringForce" type="float" value="25" />
+							<attribute id="AnimInfluenceMultiplier" type="float" value="1" />
+							<attribute id="AtmosphericWindEnabled" type="bool" value="True" />
+							<attribute id="BendingStiffness" type="float" value="1" />
+							<attribute id="CentrifugalInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="ClothMainWindFrequency" type="float" value="0" />
+							<attribute id="ClothMainWindSpeed" type="float" value="0" />
+							<attribute id="ClothMainWindVariance" type="float" value="0" />
+							<attribute id="ClothMaxWindDirectionOffset" type="float" value="0" />
+							<attribute id="ClothWindDirectionOffsetFrequency" type="float" value="0" />
+							<attribute id="ClothWindSpeed" type="float" value="0" />
+							<attribute id="CollisionMassScale" type="float" value="1" />
+							<attribute id="CompressionLimit" type="float" value="0.8" />
+							<attribute id="Damping" type="fvec3" value="0.02 0.02 0.02" />
+							<attribute id="DragCoefficient" type="float" value="0.4" />
+							<attribute id="EnableCCD" type="bool" value="False" />
+							<attribute id="EnableVirtualParticles" type="bool" value="False" />
+							<attribute id="FluidDensity" type="float" value="0.1" />
+							<attribute id="Friction" type="float" value="0.1" />
+							<attribute id="FrontalWindSpeed" type="float" value="0" />
+							<attribute id="FrontalWindVariance" type="float" value="0" />
+							<attribute id="LiftCoefficient" type="float" value="0.01" />
+							<attribute id="LinearDrag" type="fvec3" value="0.0001 0.0001 0.0001" />
+							<attribute id="LinearInertia" type="fvec3" value="0.5 0.5 0.5" />
+							<attribute id="LinearStiffness" type="float" value="1" />
+							<attribute id="OverrideAtmosphericWind" type="bool" value="False" />
+							<attribute id="SelfCollisionDistance" type="float" value="0" />
+							<attribute id="SelfCollisionStiffness" type="float" value="0" />
+							<attribute id="SolverFrequency" type="float" value="30" />
+							<attribute id="StiffnessFrequency" type="float" value="100" />
+							<attribute id="StiffnessMultiplier" type="float" value="1" />
+							<attribute id="StretchLimit" type="float" value="1.2" />
+							<attribute id="TetherConstraintScale" type="float" value="1" />
+							<attribute id="TetherConstraintStiffness" type="float" value="1" />
+							<attribute id="UUID" type="FixedString" value="HUM_M_ARM_JudgeGabranth_Body_Cape.HUM_Body_Cape_Cloth_Mesh.1" /> Put the name of your Cloth_Mesh here
+						</node>
+
+						<node id="ClothProxyMapping">
+							<children>
+<node id="Object">
+  <attribute id="MapKey" type="FixedString" value="HUM_M_ARM_JudgeGabranth_Body_Cape.HUM_Body_Cape_Cloth_Mesh.1" />
+  <children>
+    <node id="MapValue">
+      <children>
+        <node id="Object">
+          <attribute id="ClosestVertices" type="ScratchBuffer" value="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" />
+          <attribute id="Name" type="FixedString" value="HUM_M_ARM_JudgeGabranth_Body_Cape.HUM_Body_Cape.0" />
+          <attribute id="NbClosestVertices" type="int32" value="4521" />
+        </node>
+      </children>
+    </node>
+  </children>
+</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
