@@ -261,6 +261,27 @@ new entry "JEI_WPN_Rapier_VoidcastRapier_A_0"
 type "Weapon"
 using "WPN_Rapier"
 data "RootTemplate" "d2433c3c-7d1b-493c-84a2-f8427a490128"
+data "Rarity" "VeryRare"
+data "ComboCategory" "DyableArmor"
+
+new entry "_HighwayStar"
+type "Weapon"
+
+new entry "JEI_WPN_Rapier_HighwayStar_A_0"
+type "Weapon"
+using "WPN_Rapier"
+data "RootTemplate" "be469d9f-6758-47bf-b3aa-35ef76a2af15"
+data "Rarity" "VeryRare"
+data "ComboCategory" "DyableArmor"
+
+new entry "_ChaosBlade"
+type "Weapon"
+
+new entry "JEI_WPN_Rapier_ChaosBlade_A_0"
+type "Weapon"
+using "WPN_Rapier"
+data "RootTemplate" "2fabedaf-ceba-441b-879d-f05286f55a54"
+data "Rarity" "VeryRare"
 data "ComboCategory" "DyableArmor"
 
 new entry "_Scimitars"

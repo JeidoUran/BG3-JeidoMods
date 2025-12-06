@@ -408,6 +408,39 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d2433c3c-7d1b-493c-84a2-f8427a490128" />
         <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFB8860B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f1be0b01-0e52-4913-94d7-4846467f1d40" />
+        <field name="Name" type="NameTableFieldDefinition" value="_HighwayStar" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7eff6070-a09c-4292-806f-cf0eb5f1467f" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_HighwayStar_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="be469d9f-6758-47bf-b3aa-35ef76a2af15" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFB8860B" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4252144a-923c-4a30-80a2-41de50b98075" />
+        <field name="Name" type="NameTableFieldDefinition" value="_ChaosBlade" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1e313764-7a38-429a-b293-41a3964177f3" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_ChaosBlade_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2fabedaf-ceba-441b-879d-f05286f55a54" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
       </fields>
     </stat_object>
     <stat_object color="#FF0000FF" is_substat="false">
