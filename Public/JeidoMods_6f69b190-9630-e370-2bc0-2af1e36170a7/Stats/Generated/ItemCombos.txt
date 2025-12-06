@@ -130,3 +130,27 @@ data "DyeColorPresetResource" "9df28401-5a8f-c27c-00d1-c910670fdebb"
 new ItemCombinationResult "JEI_OBJ_Dye_Etoile_01_1"
 data "ResultAmount 1" "1"
 
+new ItemCombination "JEI_OBJ_Dye_JudgeGabranth_01"
+data "Type 1" "Object"
+data "Object 1" "JEI_OBJ_Dye_JudgeGabranth_01"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "149a9fa7-60da-d3f5-2321-e94ec51e5d5a"
+
+new ItemCombinationResult "JEI_OBJ_Dye_JudgeGabranth_01_1"
+data "ResultAmount 1" "1"
+
+new ItemCombination "JEI_OBJ_Dye_JudgeGabranth_02"
+data "Type 1" "Object"
+data "Object 1" "JEI_OBJ_Dye_JudgeGabranth_02"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "d7d4505c-a086-8327-26fe-f9e75713ed70"
+
+new ItemCombinationResult "JEI_OBJ_Dye_JudgeGabranth_02_1"
+data "ResultAmount 1" "1"
+

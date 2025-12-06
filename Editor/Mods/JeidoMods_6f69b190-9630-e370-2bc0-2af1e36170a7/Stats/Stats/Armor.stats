@@ -411,5 +411,48 @@
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
       </fields>
     </stat_object>
+    <stat_object color="#FF808000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7476dc65-00e9-4c70-a967-4debf9d4eeb5" />
+        <field name="Name" type="NameTableFieldDefinition" value="_JudgeGabranth" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="28542965-9760-4a18-ade4-e61df84ed50c" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Headwear_JudgeGabranth" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="92049dee-1531-4b2d-819e-3d63b94ffd08" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="af9034d4-d0b5-49c9-96cf-f9b478762bbc" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="70c0e411-bc8e-4f3d-b45b-aa4cf14c70d9" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Body_JudgeGabranth" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8c84a130-cfc9-4ae7-a0c3-1991ae84ad01" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d276c9fc-693d-4d46-954c-7ea49cf95b5b" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Gloves_JudgeGabranth" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="10733ca8-59a6-45dc-96f5-cde99e2eb6ba" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5a8725ad-0a30-409f-aaf0-3d490a2a8776" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Boots_JudgeGabranth" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="07c3ef37-899d-4ade-9481-7939da51e579" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="95525d8d-a8e4-4c68-8580-9787183a48ef" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

@@ -267,3 +267,31 @@ using "_Foot"
 data "RootTemplate" "62abba7f-38d2-4cab-b51e-57badafdd969"
 data "Rarity" "Legendary"
 
+new entry "_JudgeGabranth"
+type "Armor"
+
+new entry "JEI_ARM_Headwear_JudgeGabranth"
+type "Armor"
+using "_Head"
+data "RootTemplate" "af9034d4-d0b5-49c9-96cf-f9b478762bbc"
+data "Rarity" "VeryRare"
+
+new entry "JEI_ARM_Body_JudgeGabranth"
+type "Armor"
+using "_Body"
+data "RootTemplate" "8c84a130-cfc9-4ae7-a0c3-1991ae84ad01"
+data "Rarity" "VeryRare"
+data "Armor Class Ability" "Dexterity"
+
+new entry "JEI_ARM_Gloves_JudgeGabranth"
+type "Armor"
+using "_Hand"
+data "RootTemplate" "10733ca8-59a6-45dc-96f5-cde99e2eb6ba"
+data "Rarity" "VeryRare"
+
+new entry "JEI_ARM_Boots_JudgeGabranth"
+type "Armor"
+using "_Foot"
+data "RootTemplate" "95525d8d-a8e4-4c68-8580-9787183a48ef"
+data "Rarity" "VeryRare"
+
