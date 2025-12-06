@@ -105,5 +105,21 @@
         <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Weapon_Greatsword" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9defa3ca-f52f-42cc-84fa-39e820f77ee7" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="2fabedaf-ceba-441b-879d-f05286f55a54" />
+        <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Weapon_Rapier" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4d049c5b-3ca9-4fab-b191-3b7aa333f80e" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="be469d9f-6758-47bf-b3aa-35ef76a2af15" />
+        <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Weapon_Rapier" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
