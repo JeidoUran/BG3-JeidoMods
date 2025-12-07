@@ -220,6 +220,12 @@ data "Rarity" "VeryRare"
 new entry "_Roseblood"
 type "Armor"
 
+new entry "JEI_ARM_Headwear_Roseblood"
+type "Armor"
+using "_Head"
+data "RootTemplate" "8d67deac-4241-4974-b0c7-63c93c39a52a"
+data "Rarity" "Legendary"
+
 new entry "JEI_ARM_Roseblood_Body"
 type "Armor"
 using "_Body"

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StackedTexture>
+  <Layers>
+    <Layer type="Albedo" source="($DATA)\Public\($MOD)\FFXIV_Furniture\Assets\OdinMiniature\VirtualTextures\JEI_LOOT_OdinMiniature_Base_BM" />
+    <Layer type="Normal" source="($DATA)\Public\($MOD)\FFXIV_Furniture\Assets\OdinMiniature\VirtualTextures\JEI_LOOT_OdinMiniature_Base_NM" />
+    <Layer type="Physical" source="($DATA)\Public\($MOD)\FFXIV_Furniture\Assets\OdinMiniature\VirtualTextures\JEI_LOOT_OdinMiniature_Base_PM" />
+  </Layers>
+</StackedTexture>

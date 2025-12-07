@@ -101,3 +101,11 @@ using "_Dye_Rare"
 data "RootTemplate" "8fe6ac6b-cacf-4d16-a340-a0775d32b565"
 data "Rarity" "VeryRare"
 
+new entry "JEI_OBJ_OdinMiniature"
+type "Object"
+using "_Dye_Rare"
+data "RootTemplate" "62ea7fcc-58b3-4545-8b67-67b4b95945a4"
+data "Rarity" "Rare"
+data "GameSize" "Medium"
+data "ObjectCategory" ""
+

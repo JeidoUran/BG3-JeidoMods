@@ -158,5 +158,16 @@
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3c0a6774-ecd5-4d79-b59e-fca7e0f41c4b" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_OdinMiniature" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="62ea7fcc-58b3-4545-8b67-67b4b95945a4" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="GameSize" type="EnumerationTableFieldDefinition" value="Medium" enumeration_type_name="ObjectSize" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

@@ -342,6 +342,15 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6ae58781-4164-434b-9a2e-0a8e9d8d0206" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Headwear_Roseblood" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="92049dee-1531-4b2d-819e-3d63b94ffd08" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8d67deac-4241-4974-b0c7-63c93c39a52a" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="42a09ebd-8fc9-4e3d-8869-73b5fa6ec92d" />
         <field name="Name" type="NameTableFieldDefinition" value="JEI_ARM_Roseblood_Body" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
