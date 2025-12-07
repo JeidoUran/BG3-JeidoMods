@@ -38,7 +38,7 @@
                     <attribute id="UUID" type="guid" value="1381964e-82c6-4448-b42d-ba8cffd3c051"/>
                 </node>
                 <node id="CharacterCreationEquipmentIcon">
-                    <attribute id="EquipmentTemplate" type="guid" value="d2433c3c-7d1b-493c-84a2-f8427a490128"/>
+                    <attribute id="EquipmentTemplate" type="guid" value="9a553bed-87de-4e2b-b5a5-6e8957d840d1"/>
                     <attribute id="IconGenerationTrigger" type="FixedString" value="Icon_Weapon_Rapier"/>
                     <attribute id="UUID" type="guid" value="b3cef7fc-a7f9-4903-a4cb-2070d87ddbbd"/>
                 </node>

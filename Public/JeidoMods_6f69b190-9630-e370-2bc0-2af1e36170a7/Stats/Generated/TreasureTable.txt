@@ -194,6 +194,8 @@ new subtable "1,1"
 object category "I_JEI_WPN_Rapier_HighwayStar_A_0",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_JEI_WPN_Rapier_ChaosBlade_A_0",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_JEI_WPN_Rapier_Colada_A_0",1,0,0,0,0,0,0,0
 new treasuretable "JEI_CONT_Chest_Scimitars_TT"
 new subtable "1,1"
 object category "I_JEI_WPN_Scimitar_EdenmornTwinfangs_A_0",1,0,0,0,0,0,0,0

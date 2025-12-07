@@ -443,6 +443,22 @@
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
       </fields>
     </stat_object>
+    <stat_object color="#FFFF69B4" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="581c26cc-ec06-4580-a82e-11266bcf47f7" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Colada" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f493132f-444f-4b21-ac61-7ca47ff773a8" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_Colada_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9a553bed-87de-4e2b-b5a5-6e8957d840d1" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
     <stat_object color="#FF0000FF" is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="94851e69-ba1f-41b4-9317-1e19d69b80b7" />

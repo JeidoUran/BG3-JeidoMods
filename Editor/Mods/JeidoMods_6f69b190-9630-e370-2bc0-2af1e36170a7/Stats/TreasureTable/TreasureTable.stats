@@ -950,6 +950,16 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b9163a82-4a88-48f7-825a-3d5047f6147f" />
+        <field name="Name" type="NameTableFieldDefinition" value="7e08450a-791a-4060-a339-59d98f287aa1_substat_30" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_JEI_WPN_Rapier_Colada_A_0" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="8ddac789-35ae-46f5-be17-d64b069db0ef" />

@@ -284,6 +284,16 @@ data "RootTemplate" "2fabedaf-ceba-441b-879d-f05286f55a54"
 data "Rarity" "VeryRare"
 data "ComboCategory" "DyableArmor"
 
+new entry "_Colada"
+type "Weapon"
+
+new entry "JEI_WPN_Rapier_Colada_A_0"
+type "Weapon"
+using "WPN_Rapier"
+data "RootTemplate" "9a553bed-87de-4e2b-b5a5-6e8957d840d1"
+data "Rarity" "Legendary"
+data "ComboCategory" "DyableArmor"
+
 new entry "_Scimitars"
 type "Weapon"
 

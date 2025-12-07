@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="500" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="f579ad64-8584-4db1-bc8f-4a0288676de3" />
+					<attribute id="Name" type="LSString" value="JEI_WPN_Rapier_Colada" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/FFXIV_Gear/Assets/Rapiers/Colada/JEI_WPN_Rapier_Colada.GR2" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/JeidoMods_6f69b190-9630-e370-2bc0-2af1e36170a7/FFXIV_Gear/Assets/Rapiers/Colada/JEI_WPN_Rapier_Colada.Dummy_Colada.0" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.329 -0.046 -0.354" />
+					<attribute id="BoundsMax" type="fvec3" value="0.334 0.189 0.297" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<children>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="JEI_WPN_Rapier_Colada.Colada.0" />
+							<attribute id="MaterialID" type="FixedString" value="86fa41cc-13ef-122f-9900-24c4a46a0b7c" />
+							<attribute id="LOD" type="uint8" value="0" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="JEI_WPN_Rapier_Colada.Colada_LOD1.1" />
+							<attribute id="MaterialID" type="FixedString" value="86fa41cc-13ef-122f-9900-24c4a46a0b7c" />
+							<attribute id="LOD" type="uint8" value="1" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="JEI_WPN_Rapier_Colada.Colada_LOD2.2" />
+							<attribute id="MaterialID" type="FixedString" value="86fa41cc-13ef-122f-9900-24c4a46a0b7c" />
+							<attribute id="LOD" type="uint8" value="2" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="JEI_WPN_Rapier_Colada.Colada_LOD3.3" />
+							<attribute id="MaterialID" type="FixedString" value="86fa41cc-13ef-122f-9900-24c4a46a0b7c" />
+							<attribute id="LOD" type="uint8" value="3" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="JEI_WPN_Rapier_Colada.Colada_LOD4.4" />
+							<attribute id="MaterialID" type="FixedString" value="86fa41cc-13ef-122f-9900-24c4a46a0b7c" />
+							<attribute id="LOD" type="uint8" value="4" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Base" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

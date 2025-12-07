@@ -53,7 +53,7 @@
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_272" />
         <field name="UUID" type="IdTableFieldDefinition" value="b3cef7fc-a7f9-4903-a4cb-2070d87ddbbd" />
-        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="d2433c3c-7d1b-493c-84a2-f8427a490128" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="9a553bed-87de-4e2b-b5a5-6e8957d840d1" />
         <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Weapon_Rapier" />
       </fields>
     </stat_object>
