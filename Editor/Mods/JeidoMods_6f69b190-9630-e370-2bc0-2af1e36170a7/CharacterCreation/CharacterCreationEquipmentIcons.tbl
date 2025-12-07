@@ -121,5 +121,13 @@
         <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Weapon_Rapier" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="39e4a59f-9648-4454-ad58-6505a3a24ed5" />
+        <field name="EquipmentTemplate" type="GuidTableFieldDefinition" value="62ea7fcc-58b3-4545-8b67-67b4b95945a4" />
+        <field name="IconGenerationTrigger" type="FixedStringTableFieldDefinition" value="Icon_Music_Drum_Big" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

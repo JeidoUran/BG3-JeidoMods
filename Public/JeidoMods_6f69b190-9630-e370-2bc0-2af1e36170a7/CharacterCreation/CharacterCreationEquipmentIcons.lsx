@@ -73,14 +73,19 @@
                     <attribute id="UUID" type="guid" value="f6ce6c47-b30a-4149-a6d0-acc0c080a4ba"/>
                 </node>
                 <node id="CharacterCreationEquipmentIcon">
+                    <attribute id="EquipmentTemplate" type="guid" value="2fabedaf-ceba-441b-879d-f05286f55a54"/>
+                    <attribute id="IconGenerationTrigger" type="FixedString" value="Icon_Weapon_Rapier"/>
+                    <attribute id="UUID" type="guid" value="9defa3ca-f52f-42cc-84fa-39e820f77ee7"/>
+                </node>
+                <node id="CharacterCreationEquipmentIcon">
                     <attribute id="EquipmentTemplate" type="guid" value="be469d9f-6758-47bf-b3aa-35ef76a2af15"/>
                     <attribute id="IconGenerationTrigger" type="FixedString" value="Icon_Weapon_Rapier"/>
                     <attribute id="UUID" type="guid" value="4d049c5b-3ca9-4fab-b191-3b7aa333f80e"/>
                 </node>
                 <node id="CharacterCreationEquipmentIcon">
-                    <attribute id="EquipmentTemplate" type="guid" value="2fabedaf-ceba-441b-879d-f05286f55a54"/>
-                    <attribute id="IconGenerationTrigger" type="FixedString" value="Icon_Weapon_Rapier"/>
-                    <attribute id="UUID" type="guid" value="9defa3ca-f52f-42cc-84fa-39e820f77ee7"/>
+                    <attribute id="EquipmentTemplate" type="guid" value="62ea7fcc-58b3-4545-8b67-67b4b95945a4"/>
+                    <attribute id="IconGenerationTrigger" type="FixedString" value="Icon_Music_Drum_Big"/>
+                    <attribute id="UUID" type="guid" value="39e4a59f-9648-4454-ad58-6505a3a24ed5"/>
                 </node>
             </children>
         </node>
