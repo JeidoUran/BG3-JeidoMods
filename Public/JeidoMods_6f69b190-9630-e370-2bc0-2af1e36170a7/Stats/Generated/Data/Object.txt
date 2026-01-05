@@ -109,3 +109,15 @@ data "Rarity" "Rare"
 data "GameSize" "Medium"
 data "ObjectCategory" ""
 
+new entry "JEI_OBJ_Dye_Edengrace_01"
+type "Object"
+using "_Dye_Rare"
+data "RootTemplate" "d90d91dd-fca4-4450-8abc-3590b3ce79b9"
+data "Rarity" "Rare"
+
+new entry "JEI_OBJ_Dye_Edengrace_02"
+type "Object"
+using "_Dye_Rare"
+data "RootTemplate" "9ae47c91-eaf8-48bc-bf43-a6651c70a51a"
+data "Rarity" "Rare"
+

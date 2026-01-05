@@ -169,5 +169,23 @@
         <field name="ObjectCategory" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2fbf624f-5e71-4350-83d1-2b43fc393679" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Edengrace_01" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d90d91dd-fca4-4450-8abc-3590b3ce79b9" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="20f7a5b7-21ed-4769-950e-066cf791ac6d" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_OBJ_Dye_Edengrace_02" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="26c286b6-0139-4be7-8fc2-c2d378076750" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9ae47c91-eaf8-48bc-bf43-a6651c70a51a" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
