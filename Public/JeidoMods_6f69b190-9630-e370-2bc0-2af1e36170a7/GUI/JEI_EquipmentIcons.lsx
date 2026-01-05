@@ -397,6 +397,13 @@
                     <attribute id="V2" type="float" value="0.18701172"/>
                 </node>
                 <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Rapier_EdengraceRapier_A_0"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.43701172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.31201172"/>
+                </node>
+                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="JEI_WPN_HUM_Rapier_HellhoundTuck_Icon"/>
                     <attribute id="U1" type="float" value="0.75048828"/>
                     <attribute id="U2" type="float" value="0.81201172"/>

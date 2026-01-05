@@ -459,6 +459,22 @@
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
       </fields>
     </stat_object>
+    <stat_object color="#FF00FFFF" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4a1c0a58-dd6e-4f75-bcaa-9464bc780771" />
+        <field name="Name" type="NameTableFieldDefinition" value="_EdengraceRapier" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a3ceedfe-4e71-4236-be1e-593a96fc5cb0" />
+        <field name="Name" type="NameTableFieldDefinition" value="JEI_WPN_Rapier_EdengraceRapier_A_0" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="32e4f129-ea9c-45e3-a511-b67ebab65d21" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5f17c5b1-defb-40cd-8cc4-4cc75e73e09c" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
     <stat_object color="#FF0000FF" is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="94851e69-ba1f-41b4-9317-1e19d69b80b7" />
